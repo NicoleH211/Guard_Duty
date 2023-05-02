@@ -163,12 +163,18 @@
 				"D:/1School/_Fall 2023/Prac3/GameProjects/Guard_Duty_Test/Content/_MainFile/Nicole/Chars/PlayerChar/Components/Knight_MAT2.uasset",
 				"D:/1School/_Fall 2023/Prac3/GameProjects/Guard_Duty_Test/Content/_MainFile/Nicole/Chars/PlayerChar/Components/Knight_D_Pelegrini.uasset",
 				"D:/1School/_Fall 2023/Prac3/GameProjects/Guard_Duty_Test/Content/__ExternalActors__/_MainFile/Nicole/Levels/NewMap/8/GT/6ECVCIT6XIEPL1BE60AHC1.uasset",
-				"C:/Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/Chars/PlayerChar/Animations/NewBlendSpace1D.uasset",
 				"C:/Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/Chars/PlayerChar/Animations/BS_BaseLocomotion.uasset",
 				"C:/Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/Chars/PlayerChar/Animations/ABP_PlayerAnim.uasset",
 				"C:/Users/Scarlet/GitHub_Main/Guard_Duty/Content/ThirdPerson/Blueprints/BP_Player.uasset",
 				"C:/Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/Chars/PlayerChar/Animations/Fall_A_Loop.uasset",
 				"C:/Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/HUD/W_PlayerHud.uasset",
+				"C:/Users/Scarlet/GitHub_Main/Guard_Duty/Content/ThirdPerson/Blueprints/Player_BP.uasset",
+				"C:/Users/Scarlet/GitHub_Main/Guard_Duty/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/ItemNames_E.uasset",
+				"C:/Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/ItemType_E.uasset",
+				"C:/Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/ItemInfo_S.uasset",
+				"C:/Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/BaseInteractable_BP.uasset",
+				"C:/Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/Chars/PlayerChar/Animations/NewBlendSpace1D.uasset",
 				"D:/1School/_Fall 2023/Prac3/GameProjects/Guard_Duty_Test/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
