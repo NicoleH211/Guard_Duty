@@ -1555,3 +1555,1458 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.02-20.46.04:024][401]AssetReimport: 'C:/Users/Scarlet/GitHub_Main/Guard_Duty/Content/CraftResourcesIcons/Textures/Tex_wood_12_b.PNG' has been created.
 [2023.05.02-20.46.15:820][905]LogSlate: Window 'Message Log' being destroyed
 [2023.05.02-20.46.15:827][905]LogSlate: Window 'Message Log' being destroyed
+[2023.05.02-20.47.31:902][605]LogTexture: Display: Building textures: /Game/CraftResourcesIcons/Textures/Tex_reagent_12_b.Tex_reagent_12_b (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2023.05.02-20.49.39:467][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.05.02-20.49.39:470][546]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.044
+[2023.05.02-20.49.39:471][546]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT] ([1] browsable assets)...
+[2023.05.02-20.49.39:471][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT]
+[2023.05.02-20.49.39:471][546]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT_Auto1
+[2023.05.02-20.49.39:471][546]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/ItemInfo_DT_Auto1F40329CF4C3447CCD8EB56BB8ACC668C.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/Autosaves/Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT_Auto1.uasset'
+[2023.05.02-20.49.39:472][546]LogFileHelpers: Auto-saving content packages took 0.002
+[2023.05.02-20.50.52:412][996]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-20.50.52:473][996]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT
+[2023.05.02-20.50.52:474][996]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/ItemInfo_DT7B8D99B24ADD99614017A2ACDF3D354D.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/ItemInfo_DT.uasset'
+[2023.05.02-20.50.52:479][996]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 265 ms)
+[2023.05.02-20.50.52:486][996]AssetCheck: New page: Asset Save: ItemInfo_DT
+[2023.05.02-20.50.52:486][996]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT.ItemInfo_DT
+[2023.05.02-20.50.53:742][147]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-20.50.53:787][147]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT
+[2023.05.02-20.50.53:787][147]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/ItemInfo_DTA916695C449376A27F708F905B0537A1.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/ItemInfo_DT.uasset'
+[2023.05.02-20.50.53:792][147]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 316 ms)
+[2023.05.02-20.50.53:799][147]AssetCheck: New page: Asset Save: ItemInfo_DT
+[2023.05.02-20.50.53:799][147]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT.ItemInfo_DT
+[2023.05.02-20.51.06:095][573]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_MainFile/Nicole/InteractionSystem/BaseInteractable_BP.BaseInteractable_BP
+[2023.05.02-20.51.06:096][573]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.02-20.51.06:425][573]LogSlate: Took 0.003432 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.05.02-20.51.08:599][823]LogViewport: Scene viewport resized to 1179x869, mode Windowed.
+[2023.05.02-20.54.26:225][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.05.02-20.54.26:229][382]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-20.54.26:306][382]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/InteractionSystem/BaseInteractable_BP
+[2023.05.02-20.54.26:306][382]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/BaseInteractable_BP18991BED481D3297F652DCAEE56E9EE0.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/BaseInteractable_BP.uasset'
+[2023.05.02-20.54.26:314][382]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 402 ms)
+[2023.05.02-20.54.26:322][382]AssetCheck: New page: Asset Save: BaseInteractable_BP
+[2023.05.02-20.54.26:322][382]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_MainFile/Nicole/InteractionSystem/BaseInteractable_BP.BaseInteractable_BP
+[2023.05.02-20.54.40:979][117]BlueprintLog: New page: Compile BaseInteractable_BP
+[2023.05.02-20.54.41:036][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.05.02-20.54.41:671][188]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-20.54.41:748][188]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/InteractionSystem/BaseInteractable_BP
+[2023.05.02-20.54.41:749][188]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/BaseInteractable_BP8278B0844E38C9E35349F58A2556A3C3.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/BaseInteractable_BP.uasset'
+[2023.05.02-20.54.41:756][188]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 486 ms)
+[2023.05.02-20.54.41:761][188]AssetCheck: New page: Asset Save: BaseInteractable_BP
+[2023.05.02-20.54.41:761][188]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_MainFile/Nicole/InteractionSystem/BaseInteractable_BP.BaseInteractable_BP
+[2023.05.02-20.54.48:933][ 26]BlueprintLog: New page: Compile HealthPotion_BPint
+[2023.05.02-20.54.48:982][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.05.02-20.54.49:620][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-20.54.49:689][ 89]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint
+[2023.05.02-20.54.49:689][ 89]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/HealthPotion_BPintD3B1A99C4B917F0DAEED3384A2F82B38.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.uasset'
+[2023.05.02-20.54.49:697][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 563 ms)
+[2023.05.02-20.54.49:709][ 89]AssetCheck: New page: Asset Save: HealthPotion_BPint
+[2023.05.02-20.54.49:709][ 89]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.HealthPotion_BPint
+[2023.05.02-20.56.15:732][660]BlueprintLog: New page: Compile HealthPotion_BPint
+[2023.05.02-20.56.15:789][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.05.02-20.56.16:309][713]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-20.56.16:397][713]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint
+[2023.05.02-20.56.16:398][713]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/HealthPotion_BPintA4C19B494095B13096514AA2254D2BCF.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.uasset'
+[2023.05.02-20.56.16:403][713]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 656 ms)
+[2023.05.02-20.56.16:409][713]AssetCheck: New page: Asset Save: HealthPotion_BPint
+[2023.05.02-20.56.16:409][713]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.HealthPotion_BPint
+[2023.05.02-20.56.19:469][910]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.02-20.56.19:474][910]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.05.02-20.56.19:475][910]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.02-20.56.19:475][910]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.02-20.56.19:475][910]LogWorldPartition: Display: GetPartitionedActors took 16 us
+[2023.05.02-20.56.19:475][910]LogWorldPartition: Display: GenerateStreaming took 206 us
+[2023.05.02-20.56.19:475][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.02-20.56.19:475][910]PIE: New page: PIE session: ThirdPersonMap (May 2, 2023, 10:56:19 AM)
+[2023.05.02-20.56.19:480][910]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.05.02-20.56.19:480][910]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.05.02-20.56.19:480][910]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.05.02-20.56.19:483][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003094s)
+[2023.05.02-20.56.19:483][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003140s)
+[2023.05.02-20.56.19:483][910]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.02-20.56.19:484][910]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.05.02-20.56.19:484][910]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.05.02-20.56.19:484][910]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.02-20.56.19:484][910]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.02-20.56.19:485][910]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.05.02-20.56.19:485][910]LogWorldPartition: Display: WorldPartition initialize took 654 us (total: 292 ms)
+[2023.05.02-20.56.19:485][910]LogPlayLevel: PIE: World Init took: (0.001582s)
+[2023.05.02-20.56.19:516][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.05.02-20.56.19:517][910]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.05.02-20.56.19:518][910]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.02-20.56.19:518][910]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.02-20.56.19:518][910]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.02-20.56.19:518][910]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.02-20.56.19:518][910]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.02-20.56.19:518][910]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.02-20.56.19:518][910]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.02-20.56.19:518][910]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.02-20.56.19:518][910]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.02-20.56.19:518][910]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.02-20.56.19:518][910]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.02-20.56.19:520][910]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.02-20.56.19:614][910]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2023.05.02-20.56.19:614][910]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.02-20.56.19:614][910]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.02-20.56.19:614][910]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.02-20.56.19:615][910]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.05.02-20.56.19:615][910]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2023.05.02-20.56.19:616][910]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.05.02-20.56.19:616][910]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.05.02-20.56.19:616][910]LogInit: FAudioDevice initialized.
+[2023.05.02-20.56.19:616][910]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2023.05.02-20.56.19:666][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.02-20.56.19:667][910]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.05.02-20.56.19:668][910]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.05.02-15.56.19
+[2023.05.02-20.56.19:668][910]LogWorld: Bringing up level for play took: 0.001438
+[2023.05.02-20.56.19:670][910]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2023.05.02-20.56.19:683][910]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=104.338
+[2023.05.02-20.56.19:685][910]PIE: Server logged in
+[2023.05.02-20.56.19:686][910]PIE: Play in editor total start time 0.212 seconds.
+[2023.05.02-20.56.19:696][910]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.05.02-20.56.19:960][911]LogShaderCompilers: Display: ================================================
+[2023.05.02-20.56.19:960][911]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.02-20.56.19:960][911]LogShaderCompilers: Display: Total job queries 113, among them cache hits 6 (5.31%)
+[2023.05.02-20.56.19:960][911]LogShaderCompilers: Display: Tracking 107 distinct input hashes that result in 87 distinct outputs (81.31%)
+[2023.05.02-20.56.19:961][911]LogShaderCompilers: Display: RAM used: 0.90 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.06%
+[2023.05.02-20.56.19:961][911]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.02-20.56.19:961][911]LogShaderCompilers: Display: Shaders Compiled: 4
+[2023.05.02-20.56.19:961][911]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2023.05.02-20.56.19:961][911]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.04 s
+[2023.05.02-20.56.19:961][911]LogShaderCompilers: Display: Job execution time: average 0.67 s, max 0.83 s
+[2023.05.02-20.56.19:961][911]LogShaderCompilers: Display: Job life time (pending + execution): average 0.71 s, max 0.87
+[2023.05.02-20.56.19:961][911]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.87 s
+[2023.05.02-20.56.19:961][911]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.02-20.56.19:961][911]LogShaderCompilers: Display: Average processing rate: 4.62 jobs/sec
+[2023.05.02-20.56.19:961][911]LogShaderCompilers: Display: Total thread time: 1.58 s
+[2023.05.02-20.56.19:961][911]LogShaderCompilers: Display: Total thread preprocess time: 0.10 s
+[2023.05.02-20.56.19:961][911]LogShaderCompilers: Display: Percentage time preprocessing: 6.50%
+[2023.05.02-20.56.19:961][911]LogShaderCompilers: Display: Effective parallelization: 1.83 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.02-20.56.19:961][911]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.05.02-20.56.19:961][911]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2023.05.02-20.56.19:961][911]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2023.05.02-20.56.19:961][911]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2023.05.02-20.56.19:961][911]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2023.05.02-20.56.19:961][911]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.05.02-20.56.19:961][911]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.83% of total time (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2023.05.02-20.56.19:961][911]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 28.81% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2023.05.02-20.56.19:961][911]LogShaderCompilers: Display:                                                 FLumenCardVS - 25.49% of total time (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2023.05.02-20.56.19:961][911]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 14.87% of total time (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2023.05.02-20.56.19:961][911]LogShaderCompilers: Display: ================================================
+[2023.05.02-20.56.22:922][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.02-20.56.22:922][216]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.05.02-20.56.22:923][216]LogSlate: Window 'Guard_Duty_Test Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.05.02-20.56.22:931][216]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.02-20.56.22:931][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-20.56.22:931][216]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.05.02-20.56.22:936][216]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.02-20.56.22:943][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-20.56.22:983][216]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.05.02-20.56.22:985][216]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.05.02-20.56.23:006][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.05.02-20.56.23:021][217]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.05.02-20.56.31:705][631]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.HealthPotion_BPint_C
+[2023.05.02-20.56.31:705][631]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.HealthPotion_BPint_C
+[2023.05.02-20.56.31:706][631]LogActorFactory: Actor Factory spawned Blueprint /Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.HealthPotion_BPint as actor: HealthPotion_BPint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.HealthPotion_BPint_C_0
+[2023.05.02-20.56.31:707][631]LogActorFactory: Actor Factory spawned Blueprint /Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.HealthPotion_BPint as actor: HealthPotion_BPint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.HealthPotion_BPint_C_0
+[2023.05.02-20.56.31:709][631]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.05.02-20.56.32:332][684]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.HealthPotion_BPint_C
+[2023.05.02-20.56.32:332][684]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.HealthPotion_BPint_C
+[2023.05.02-20.56.32:334][684]LogActorFactory: Actor Factory spawned Blueprint /Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.HealthPotion_BPint as actor: HealthPotion_BPint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.HealthPotion_BPint_C_UAID_047C1607C12FBC7E01_2042159303
+[2023.05.02-20.56.32:335][684]LogActorFactory: Actor Factory spawned Blueprint /Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.HealthPotion_BPint as actor: HealthPotion_BPint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.HealthPotion_BPint_C_UAID_047C1607C12FBC7E01_2042159303
+[2023.05.02-20.56.33:909][849]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.02-20.56.33:914][849]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.05.02-20.56.33:915][849]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.02-20.56.33:915][849]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.02-20.56.33:915][849]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 22 us)
+[2023.05.02-20.56.33:916][849]LogWorldPartition: Display: GenerateStreaming took 152 us (total: 359 us)
+[2023.05.02-20.56.33:919][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.02-20.56.33:919][849]PIE: New page: PIE session: ThirdPersonMap (May 2, 2023, 10:56:33 AM)
+[2023.05.02-20.56.33:920][849]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.05.02-20.56.33:923][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002824s)
+[2023.05.02-20.56.33:923][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002848s)
+[2023.05.02-20.56.33:923][849]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.02-20.56.33:923][849]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.05.02-20.56.33:924][849]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.05.02-20.56.33:924][849]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.02-20.56.33:924][849]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.02-20.56.33:924][849]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.05.02-20.56.33:924][849]LogWorldPartition: Display: WorldPartition initialize took 621 us (total: 292 ms)
+[2023.05.02-20.56.33:924][849]LogPlayLevel: PIE: World Init took: (0.001347s)
+[2023.05.02-20.56.33:964][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.05.02-20.56.33:968][849]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.05.02-20.56.33:968][849]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.02-20.56.33:968][849]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.02-20.56.33:968][849]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.02-20.56.33:968][849]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.02-20.56.33:968][849]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.02-20.56.33:968][849]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.02-20.56.33:968][849]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.02-20.56.33:968][849]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.02-20.56.33:969][849]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.02-20.56.33:969][849]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.02-20.56.33:969][849]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.02-20.56.33:971][849]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.02-20.56.34:066][849]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2023.05.02-20.56.34:066][849]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.02-20.56.34:066][849]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.02-20.56.34:066][849]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.02-20.56.34:067][849]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.05.02-20.56.34:067][849]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2023.05.02-20.56.34:068][849]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.05.02-20.56.34:068][849]LogInit: FAudioDevice initialized.
+[2023.05.02-20.56.34:068][849]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.05.02-20.56.34:068][849]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2023.05.02-20.56.34:071][849]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.05.02-20.56.34:073][849]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.05.02-15.56.34
+[2023.05.02-20.56.34:073][849]LogWorld: Bringing up level for play took: 0.001107
+[2023.05.02-20.56.34:075][849]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.05.02-20.56.34:076][849]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=104.338
+[2023.05.02-20.56.34:077][849]LogBlueprintUserMessages: [HealthPotion_BPint_C_UAID_047C1607C12FBC7E01_2042159303] Health Potion
+[2023.05.02-20.56.34:078][849]PIE: Server logged in
+[2023.05.02-20.56.34:079][849]PIE: Play in editor total start time 0.164 seconds.
+[2023.05.02-20.56.37:092][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.02-20.56.37:092][183]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.05.02-20.56.37:092][183]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.02-20.56.37:092][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-20.56.37:092][183]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.05.02-20.56.37:099][183]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.02-20.56.37:104][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-20.56.37:144][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.02-20.56.37:144][183]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.05.02-20.56.37:146][183]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.05.02-20.56.37:151][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.05.02-20.56.37:181][184]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.05.02-20.56.37:944][263]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.02-20.56.37:949][263]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.05.02-20.56.37:950][263]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.02-20.56.37:950][263]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.02-20.56.37:950][263]LogWorldPartition: Display: GetPartitionedActors took 4 us (total: 27 us)
+[2023.05.02-20.56.37:950][263]LogWorldPartition: Display: GenerateStreaming took 153 us (total: 512 us)
+[2023.05.02-20.56.37:951][263]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.02-20.56.37:951][263]PIE: New page: PIE session: ThirdPersonMap (May 2, 2023, 10:56:37 AM)
+[2023.05.02-20.56.37:981][263]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.05.02-20.56.37:984][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002843s)
+[2023.05.02-20.56.37:984][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002886s)
+[2023.05.02-20.56.37:984][263]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.02-20.56.37:984][263]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.05.02-20.56.37:985][263]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.05.02-20.56.37:985][263]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.02-20.56.37:985][263]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.02-20.56.37:985][263]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.05.02-20.56.37:985][263]LogWorldPartition: Display: WorldPartition initialize took 662 us (total: 293 ms)
+[2023.05.02-20.56.37:986][263]LogPlayLevel: PIE: World Init took: (0.001467s)
+[2023.05.02-20.56.38:022][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.05.02-20.56.38:026][263]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.05.02-20.56.38:026][263]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.02-20.56.38:026][263]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.02-20.56.38:026][263]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.02-20.56.38:026][263]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.02-20.56.38:026][263]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.02-20.56.38:026][263]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.02-20.56.38:026][263]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.02-20.56.38:026][263]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.02-20.56.38:027][263]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.02-20.56.38:027][263]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.02-20.56.38:027][263]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.02-20.56.38:028][263]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.02-20.56.38:128][263]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2023.05.02-20.56.38:129][263]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.02-20.56.38:129][263]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.02-20.56.38:129][263]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.02-20.56.38:130][263]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.05.02-20.56.38:130][263]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2023.05.02-20.56.38:131][263]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.05.02-20.56.38:131][263]LogInit: FAudioDevice initialized.
+[2023.05.02-20.56.38:131][263]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.05.02-20.56.38:131][263]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2023.05.02-20.56.38:133][263]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.05.02-20.56.38:134][263]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.05.02-15.56.38
+[2023.05.02-20.56.38:134][263]LogWorld: Bringing up level for play took: 0.000972
+[2023.05.02-20.56.38:136][263]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.05.02-20.56.38:137][263]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=104.338
+[2023.05.02-20.56.38:137][263]LogBlueprintUserMessages: [HealthPotion_BPint_C_UAID_047C1607C12FBC7E01_2042159303] Health Potion
+[2023.05.02-20.56.38:138][263]PIE: Server logged in
+[2023.05.02-20.56.38:139][263]PIE: Play in editor total start time 0.189 seconds.
+[2023.05.02-20.56.39:111][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.02-20.56.39:111][362]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.05.02-20.56.39:112][362]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.02-20.56.39:112][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-20.56.39:112][362]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.05.02-20.56.39:116][362]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.02-20.56.39:122][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-20.56.39:160][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.02-20.56.39:161][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.05.02-20.56.39:162][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.05.02-20.56.39:168][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.05.02-20.56.39:183][363]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.05.02-20.57.09:100][610]BlueprintLog: New page: Compile HealthPotion_BPint
+[2023.05.02-20.57.09:163][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.05.02-20.57.09:839][676]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-20.57.09:914][676]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint
+[2023.05.02-20.57.09:914][676]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/HealthPotion_BPintB528951A4A5C1022D11DE29AAED38AE1.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.uasset'
+[2023.05.02-20.57.09:919][676]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 737 ms)
+[2023.05.02-20.57.09:928][676]AssetCheck: New page: Asset Save: HealthPotion_BPint
+[2023.05.02-20.57.09:928][676]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.HealthPotion_BPint
+[2023.05.02-20.59.00:318][ 20]BlueprintLog: New page: Compile HealthPotion_BPint
+[2023.05.02-20.59.00:385][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.05.02-20.59.00:602][ 43]BlueprintLog: New page: Compile HealthPotion_BPint
+[2023.05.02-20.59.00:665][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.05.02-20.59.01:174][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-20.59.01:255][ 93]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint
+[2023.05.02-20.59.01:256][ 93]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/HealthPotion_BPintAD1E51CA4DC2748D729413AA7695A389.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.uasset'
+[2023.05.02-20.59.01:264][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 827 ms)
+[2023.05.02-20.59.01:270][ 93]AssetCheck: New page: Asset Save: HealthPotion_BPint
+[2023.05.02-20.59.01:270][ 93]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.HealthPotion_BPint
+[2023.05.02-20.59.02:469][226]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.05.02-20.59.02:469][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-20.59.10:267][ 72]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/_MainFile/Nicole/InteractionSystem/ItemInfo_S.ItemInfo_S
+[2023.05.02-20.59.20:021][214]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.02-20.59.20:021][214]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.05.02-20.59.20:021][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-20.59.26:759][918]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/_MainFile/Nicole/InteractionSystem/ItemNames_E.ItemNames_E
+[2023.05.02-20.59.39:292][374]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.02-20.59.39:293][374]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.02-20.59.39:293][374]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.02-20.59.49:933][565]LogContentBrowser: Deferred new asset file creation: BaseInteractable_BP_Child
+[2023.05.02-20.59.49:957][565]LogContentBrowser: Creating deferred item: BaseInteractable_BP_Child
+[2023.05.02-20.59.49:963][566]LogContentBrowser: Renaming the item being created (Deferred Item: BaseInteractable_BP_Child).
+[2023.05.02-21.00.02:122][ 25]LogContentBrowser: Attempting asset rename: BaseInteractable_BP_Child -> RustedSword_BP
+[2023.05.02-21.00.02:128][ 25]LogContentBrowser: End creating deferred item BaseInteractable_BP_Child
+[2023.05.02-21.00.04:642][318]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_MainFile/Nicole/InteractionSystem/RustedSword_BP.RustedSword_BP
+[2023.05.02-21.00.04:642][318]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.02-21.00.04:972][318]LogViewport: Scene viewport resized to 1179x869, mode Windowed.
+[2023.05.02-21.01.08:031][319]LogTexture: Display: Building textures: /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_BlackKnight/T_Blade_BlackKnight_Sword1_M.T_Blade_BlackKnight_Sword1_M (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2023.05.02-21.01.08:031][319]LogTexture: Display: Building textures: /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_BlackKnight/T_Blade_BlackKnight_Sword2_M.T_Blade_BlackKnight_Sword2_M (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2023.05.02-21.01.08:033][319]LogTexture: Display: Building textures: /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_BlackKnight/T_Blade_BlackKnight_Sword1_N.T_Blade_BlackKnight_Sword1_N (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 18.562259 MB), EncodeSpeed: Fast
+[2023.05.02-21.01.08:033][319]LogTexture: Display: Building textures: /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_BlackKnight/T_Blade_BlackKnight_Sword2_D.T_Blade_BlackKnight_Sword2_D (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2023.05.02-21.01.08:033][319]LogSkeletalMesh: Building Skeletal Mesh SK_Blade_BlackKnight...
+[2023.05.02-21.01.08:034][319]LogTexture: Display: Building textures: /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_BlackKnight/T_Blade_BlackKnight_Sword1_D.T_Blade_BlackKnight_Sword1_D (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2023.05.02-21.01.08:034][319]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_BlackKnight/SK_Blade_BlackKnight.SK_Blade_BlackKnight
+[2023.05.02-21.01.08:034][319]LogTexture: Display: Building textures: /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_BlackKnight/T_Blade_BlackKnight_Sword2_N.T_Blade_BlackKnight_Sword2_N (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 18.562259 MB), EncodeSpeed: Fast
+[2023.05.02-21.01.08:036][319]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_BlackKnight/SK_Blade_BlackKnight.SK_Blade_BlackKnight
+[2023.05.02-21.01.08:052][319]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.02-21.01.08:083][319]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2023.05.02-21.01.08:159][319]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.02-21.01.08:547][319]LogShaderCompilers: Display: ================================================
+[2023.05.02-21.01.08:547][319]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.02-21.01.08:547][319]LogShaderCompilers: Display: Total job queries 123, among them cache hits 8 (6.50%)
+[2023.05.02-21.01.08:547][319]LogShaderCompilers: Display: Tracking 115 distinct input hashes that result in 91 distinct outputs (79.13%)
+[2023.05.02-21.01.08:547][319]LogShaderCompilers: Display: RAM used: 0.95 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.06%
+[2023.05.02-21.01.08:547][319]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.02-21.01.08:547][319]LogShaderCompilers: Display: Shaders Compiled: 4
+[2023.05.02-21.01.08:547][319]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2023.05.02-21.01.08:548][319]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.04 s
+[2023.05.02-21.01.08:548][319]LogShaderCompilers: Display: Job execution time: average 0.67 s, max 0.83 s
+[2023.05.02-21.01.08:548][319]LogShaderCompilers: Display: Job life time (pending + execution): average 0.71 s, max 0.87
+[2023.05.02-21.01.08:548][319]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.87 s
+[2023.05.02-21.01.08:548][319]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.02-21.01.08:548][319]LogShaderCompilers: Display: Average processing rate: 4.62 jobs/sec
+[2023.05.02-21.01.08:548][319]LogShaderCompilers: Display: Total thread time: 1.58 s
+[2023.05.02-21.01.08:548][319]LogShaderCompilers: Display: Total thread preprocess time: 0.10 s
+[2023.05.02-21.01.08:548][319]LogShaderCompilers: Display: Percentage time preprocessing: 6.50%
+[2023.05.02-21.01.08:548][319]LogShaderCompilers: Display: Effective parallelization: 1.83 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.02-21.01.08:548][319]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.05.02-21.01.08:548][319]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2023.05.02-21.01.08:548][319]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2023.05.02-21.01.08:548][319]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2023.05.02-21.01.08:548][319]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2023.05.02-21.01.08:548][319]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.05.02-21.01.08:548][319]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.83% of total time (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2023.05.02-21.01.08:548][319]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 28.81% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2023.05.02-21.01.08:548][319]LogShaderCompilers: Display:                                                 FLumenCardVS - 25.49% of total time (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2023.05.02-21.01.08:548][319]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 14.87% of total time (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2023.05.02-21.01.08:548][319]LogShaderCompilers: Display: ================================================
+[2023.05.02-21.01.08:587][319]LogViewport: Scene viewport resized to 1141x858, mode Windowed.
+[2023.05.02-21.01.24:852][130]LogTexture: Display: Building textures: /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_Fencer/T_Blade_Fencer1_M.T_Blade_Fencer1_M (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2023.05.02-21.01.24:853][130]LogTexture: Display: Building textures: /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_Fencer/T_Blade_Fencer2_M.T_Blade_Fencer2_M (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2023.05.02-21.01.24:853][130]LogTexture: Display: Building textures: /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_Fencer/T_Blade_Fencer1_N.T_Blade_Fencer1_N (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 18.562259 MB), EncodeSpeed: Fast
+[2023.05.02-21.01.24:853][130]LogTexture: Display: Building textures: /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_Fencer/T_Blade_Fencer1_D.T_Blade_Fencer1_D (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2023.05.02-21.01.24:853][130]LogTexture: Display: Building textures: /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_Fencer/T_Blade_Fencer2_D.T_Blade_Fencer2_D (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2023.05.02-21.01.24:854][130]LogTexture: Display: Building textures: /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_Fencer/T_Blade_Fencer2_N.T_Blade_Fencer2_N (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 18.562259 MB), EncodeSpeed: Fast
+[2023.05.02-21.01.24:855][130]LogSkeletalMesh: Building Skeletal Mesh SK_Blade_Fencer...
+[2023.05.02-21.01.24:855][130]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_Fencer/SK_Blade_Fencer.SK_Blade_Fencer
+[2023.05.02-21.01.24:857][130]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_Fencer/SK_Blade_Fencer.SK_Blade_Fencer
+[2023.05.02-21.01.24:858][130]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.02-21.01.24:871][130]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.02-21.01.24:978][130]LogToolMenus: Warning: Menu already registered : SkeletalMeshEditor.MeshContextMenu
+[2023.05.02-21.01.25:048][130]LogViewport: Scene viewport resized to 1141x858, mode Windowed.
+[2023.05.02-21.01.30:331][696]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.05.02-21.01.30:331][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-21.01.30:781][743]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.05.02-21.01.30:781][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-21.01.43:741][176]LogTexture: Display: Building textures: /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_SwordB/T_Blade_SwordB2_M.T_Blade_SwordB2_M (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2023.05.02-21.01.43:743][176]LogTexture: Display: Building textures: /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_SwordB/T_Blade_SwordB1_D.T_Blade_SwordB1_D (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2023.05.02-21.01.43:743][176]LogSkeletalMesh: Display: [AssetLog] C:\Users\Scarlet\GitHub_Main\Guard_Duty\Content\InfinityBladeWeapons\Weapons\Blade\Swords\Blade_SwordB\SK_Blade_SwordB.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.05.02-21.01.43:743][176]LogTexture: Display: Building textures: /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_SwordB/T_Blade_SwordB2_D.T_Blade_SwordB2_D (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2023.05.02-21.01.43:743][176]LogSkeletalMesh: Building Skeletal Mesh SK_Blade_SwordB...
+[2023.05.02-21.01.43:743][176]LogTexture: Display: Building textures: /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_SwordB/T_Blade_SwordB1_N.T_Blade_SwordB1_N (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 18.562259 MB), EncodeSpeed: Fast
+[2023.05.02-21.01.43:743][176]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_SwordB/SK_Blade_SwordB.SK_Blade_SwordB
+[2023.05.02-21.01.43:744][176]LogTexture: Display: Building textures: /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_SwordB/T_Blade_SwordB2_N.T_Blade_SwordB2_N (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 18.562259 MB), EncodeSpeed: Fast
+[2023.05.02-21.01.43:745][176]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_SwordB/SK_Blade_SwordB.SK_Blade_SwordB
+[2023.05.02-21.01.43:747][176]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.02-21.01.43:758][176]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.02-21.01.43:858][176]LogToolMenus: Warning: Menu already registered : SkeletalMeshEditor.MeshContextMenu
+[2023.05.02-21.01.43:926][176]LogViewport: Scene viewport resized to 1141x858, mode Windowed.
+[2023.05.02-21.01.50:762][951]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.05.02-21.01.50:762][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-21.02.31:347][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.05.02-21.02.31:349][184]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.102
+[2023.05.02-21.02.31:350][184]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT] ([1] browsable assets)...
+[2023.05.02-21.02.31:350][184]OBJ SavePackage: Finished generating thumbnails for package [/Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT]
+[2023.05.02-21.02.31:351][184]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT_Auto2
+[2023.05.02-21.02.31:351][184]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/ItemInfo_DT_Auto22AD005FF477100F4A0C9FE807D66DA3F.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/Autosaves/Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT_Auto2.uasset'
+[2023.05.02-21.02.31:351][184]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_MainFile/Nicole/InteractionSystem/RustedSword_BP] ([2] browsable assets)...
+[2023.05.02-21.02.31:434][184]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_MainFile/Nicole/InteractionSystem/RustedSword_BP.RustedSword_BP]
+[2023.05.02-21.02.31:434][184]OBJ SavePackage: Finished generating thumbnails for package [/Game/_MainFile/Nicole/InteractionSystem/RustedSword_BP]
+[2023.05.02-21.02.31:441][184]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_MainFile/Nicole/InteractionSystem/RustedSword_BP_Auto2
+[2023.05.02-21.02.31:441][184]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/RustedSword_BP_Auto2644951CD422343F3AB1A688628C65FBF.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/Autosaves/Game/_MainFile/Nicole/InteractionSystem/RustedSword_BP_Auto2.uasset'
+[2023.05.02-21.02.31:442][184]LogFileHelpers: Auto-saving content packages took 0.092
+[2023.05.02-21.05.17:208][901]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.02-21.05.17:255][901]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.02-21.05.17:266][902]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.02-21.05.23:119][596]LogContentBrowser: Attempting asset rename: NewFolder -> AssetImports
+[2023.05.02-21.05.23:120][596]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.02-21.05.30:284][391]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.02-21.05.30:305][391]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.02-21.05.30:325][393]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.02-21.05.32:722][670]LogContentBrowser: Attempting asset rename: NewFolder -> Weapons
+[2023.05.02-21.05.32:722][670]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.02-21.07.55:921][648]LogInterchangeEngine: [Pending] Importing
+[2023.05.02-21.07.55:921][648]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.05.02-21.07.55:922][648]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.05.02-21.07.55:922][648]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.05.02-21.07.55:922][648]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.05.02-21.07.55:922][648]LogInterchangeEngine: [Pending] Importing -  (6)
+[2023.05.02-21.07.55:924][648]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\1School\_Fall 2023\Prac3\Downloads\Props\Weapons\WeaponsTextures\CelticWeapons.fbx)
+[2023.05.02-21.07.55:930][648]LogFbx: Loading FBX Scene from D:\1School\_Fall 2023\Prac3\Downloads\Props\Weapons\WeaponsTextures\CelticWeapons.fbx
+[2023.05.02-21.07.55:946][648]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.02-21.07.56:172][648]LogTexture: Display: Building textures: /Game/_MainFile/Nicole/AssetImports/Weapons/WeaponsTextures/MedivialWeapons_2K_OcclusionRoughnessMetallic.MedivialWeapons_2K_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.05.02-21.07.56:196][648]LogTexture: Display: Building textures: /Game/_MainFile/Nicole/AssetImports/Weapons/WeaponsTextures/MedivialWeapons_2K_Normal.MedivialWeapons_2K_Normal (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.05.02-21.07.56:205][648]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.05.02-21.07.56:205][648]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.05.02-21.07.56:214][648]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.05.02-21.07.56:240][648]LogTexture: Display: Building textures: /Game/_MainFile/Nicole/AssetImports/Weapons/WeaponsTextures/MedivialWeapons_2K_BaseColor.MedivialWeapons_2K_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.05.02-21.07.56:496][648]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.05.02-21.07.56:509][648]LogTexture: Display: Building textures: /Game/_MainFile/Nicole/AssetImports/Weapons/WeaponsTextures/MedivialWeapons_4K_OcclusionRoughnessMetallic.MedivialWeapons_4K_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.05.02-21.07.56:630][648]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.05.02-21.07.56:630][648]LogInterchangeEngine: [Success] Import Done
+[2023.05.02-21.07.56:648][648]LogTexture: Display: Building textures: /Game/_MainFile/Nicole/AssetImports/Weapons/WeaponsTextures/MedivialWeapons_4K_BaseColor.MedivialWeapons_4K_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.05.02-21.07.56:661][648]LogTexture: Display: Building textures: /Game/_MainFile/Nicole/AssetImports/Weapons/WeaponsTextures/MedivialWeapons_4K_Normal.MedivialWeapons_4K_Normal (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.05.02-21.08.27:743][648]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.02-21.08.27:842][648]LogFbx: Display: Triangulating static mesh SM_ShortSword
+[2023.05.02-21.08.27:865][648]LogStaticMesh: Display: Building static mesh CelticWeapons_SM_ShortSword...
+[2023.05.02-21.08.27:878][648]LogStaticMesh: Built static mesh [0.01s] /Game/_MainFile/Nicole/AssetImports/Weapons/CelticWeapons_SM_ShortSword.CelticWeapons_SM_ShortSword
+[2023.05.02-21.08.27:901][648]LogFbx: Display: Triangulating static mesh SM_LongSword
+[2023.05.02-21.08.27:921][648]LogStaticMesh: Display: Building static mesh CelticWeapons_SM_LongSword...
+[2023.05.02-21.08.27:935][648]LogStaticMesh: Built static mesh [0.01s] /Game/_MainFile/Nicole/AssetImports/Weapons/CelticWeapons_SM_LongSword.CelticWeapons_SM_LongSword
+[2023.05.02-21.08.27:947][648]LogFbx: Display: Triangulating static mesh SM_BattleAxe
+[2023.05.02-21.08.27:962][648]LogStaticMesh: Display: Building static mesh CelticWeapons_SM_BattleAxe...
+[2023.05.02-21.08.27:972][648]LogStaticMesh: Built static mesh [0.01s] /Game/_MainFile/Nicole/AssetImports/Weapons/CelticWeapons_SM_BattleAxe.CelticWeapons_SM_BattleAxe
+[2023.05.02-21.08.27:985][648]LogFbx: Display: Triangulating static mesh SM_Dager
+[2023.05.02-21.08.28:005][648]LogStaticMesh: Display: Building static mesh CelticWeapons_SM_Dager...
+[2023.05.02-21.08.28:017][648]LogStaticMesh: Built static mesh [0.01s] /Game/_MainFile/Nicole/AssetImports/Weapons/CelticWeapons_SM_Dager.CelticWeapons_SM_Dager
+[2023.05.02-21.08.28:030][648]LogFbx: Display: Triangulating static mesh SM_Cudgle 
+[2023.05.02-21.08.28:052][648]LogStaticMesh: Display: Building static mesh CelticWeapons_SM_Cudgle_...
+[2023.05.02-21.08.28:063][648]LogStaticMesh: Built static mesh [0.01s] /Game/_MainFile/Nicole/AssetImports/Weapons/CelticWeapons_SM_Cudgle_.CelticWeapons_SM_Cudgle_
+[2023.05.02-21.08.28:077][648]LogFbx: Display: Triangulating static mesh SM_QuaterStaff
+[2023.05.02-21.08.28:100][648]LogStaticMesh: Display: Building static mesh CelticWeapons_SM_QuaterStaff...
+[2023.05.02-21.08.28:114][648]LogStaticMesh: Built static mesh [0.01s] /Game/_MainFile/Nicole/AssetImports/Weapons/CelticWeapons_SM_QuaterStaff.CelticWeapons_SM_QuaterStaff
+[2023.05.02-21.08.28:128][648]LogFbx: Display: Triangulating static mesh SM_Halberd
+[2023.05.02-21.08.28:152][648]LogStaticMesh: Display: Building static mesh CelticWeapons_SM_Halberd...
+[2023.05.02-21.08.28:165][648]LogStaticMesh: Built static mesh [0.01s] /Game/_MainFile/Nicole/AssetImports/Weapons/CelticWeapons_SM_Halberd.CelticWeapons_SM_Halberd
+[2023.05.02-21.08.28:256][648]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.05.02-21.08.28:267][648]LogTexture: Display: Building textures: /Game/_MainFile/Nicole/AssetImports/Weapons/WeaponsTextures/MedivialWeapons_4K_Normal.MedivialWeapons_4K_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.05.02-21.08.28:286][648]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.05.02-21.08.28:299][648]LogTexture: Display: Building textures: /Game/_MainFile/Nicole/AssetImports/Weapons/WeaponsTextures/MedivialWeapons_2K_Normal.MedivialWeapons_2K_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2023.05.02-21.08.28:394][649]LogInterchangeEngine: [Success] Import Done
+[2023.05.02-21.09.09:292][ 25]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.02-21.09.09:311][ 25]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.02-21.09.09:324][ 26]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.02-21.09.13:273][472]LogContentBrowser: Attempting asset rename: NewFolder -> Pack1
+[2023.05.02-21.09.13:274][472]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.02-21.09.18:837][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-21.09.18:978][ 31]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/WeaponsTextures/MedivialWeapons_2K_OcclusionRoughnessMetallic
+[2023.05.02-21.09.18:978][ 31]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/MedivialWeapons_2K_OcclusionRoug8FD58E814A57D08C951240B90ADC3095.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Pack1/WeaponsTextures/MedivialWeapons_2K_OcclusionRoughnessMetallic.uasset'
+[2023.05.02-21.09.19:279][ 31]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/WeaponsTextures/MedivialWeapons_4K_OcclusionRoughnessMetallic
+[2023.05.02-21.09.19:279][ 31]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/MedivialWeapons_4K_OcclusionRoug498EA2BD4D0127F917C619BAB2571C62.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Pack1/WeaponsTextures/MedivialWeapons_4K_OcclusionRoughnessMetallic.uasset'
+[2023.05.02-21.09.19:614][ 31]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/WeaponsTextures/MedivialWeapons_4K_BaseColor
+[2023.05.02-21.09.19:614][ 31]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/MedivialWeapons_4K_BaseColorCEDE26364D34D1ADEA4602BB21FF9C51.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Pack1/WeaponsTextures/MedivialWeapons_4K_BaseColor.uasset'
+[2023.05.02-21.09.19:707][ 31]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/WeaponsTextures/MedivialWeapons_2K_Normal
+[2023.05.02-21.09.19:707][ 31]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/MedivialWeapons_2K_NormalCA7FEC10400162A857D7BA91F196EA1D.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Pack1/WeaponsTextures/MedivialWeapons_2K_Normal.uasset'
+[2023.05.02-21.09.20:048][ 31]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/WeaponsTextures/MedivialWeapons_4K_Normal
+[2023.05.02-21.09.20:048][ 31]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/MedivialWeapons_4K_NormalB4E5F7514178842AF6C21CAB628E34AF.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Pack1/WeaponsTextures/MedivialWeapons_4K_Normal.uasset'
+[2023.05.02-21.09.20:140][ 31]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/WeaponsTextures/MedivialWeapons_2K_BaseColor
+[2023.05.02-21.09.20:140][ 31]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/MedivialWeapons_2K_BaseColorE92205B7440566FE207FB49A805E158C.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Pack1/WeaponsTextures/MedivialWeapons_2K_BaseColor.uasset'
+[2023.05.02-21.09.20:146][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.30 sec (total: 2.13 sec)
+[2023.05.02-21.09.20:311][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.05.02-21.09.20:357][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.05.02-21.09.20:389][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.05.02-21.09.20:416][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-21.09.20:510][ 31]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_ShortSword
+[2023.05.02-21.09.20:510][ 31]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/CelticWeapons_SM_ShortSwordBF75441D4381540897594D9FF6CEA779.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_ShortSword.uasset'
+[2023.05.02-21.09.20:527][ 31]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_BattleAxe
+[2023.05.02-21.09.20:527][ 31]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/CelticWeapons_SM_BattleAxeC451E8CD4348BCB189C0EEA5ADFEB1E3.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_BattleAxe.uasset'
+[2023.05.02-21.09.20:545][ 31]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_Cudgle_
+[2023.05.02-21.09.20:545][ 31]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/CelticWeapons_SM_Cudgle_E545FDBF401ABD179BFAB0A3B0FA2A8D.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_Cudgle_.uasset'
+[2023.05.02-21.09.20:562][ 31]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_Dager
+[2023.05.02-21.09.20:562][ 31]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/CelticWeapons_SM_Dager054996AE4B89CE17D6D5929E21843A7E.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_Dager.uasset'
+[2023.05.02-21.09.20:580][ 31]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_Halberd
+[2023.05.02-21.09.20:580][ 31]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/CelticWeapons_SM_HalberdAA0C6C09442540EF6E19F7BF8023119A.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_Halberd.uasset'
+[2023.05.02-21.09.20:597][ 31]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_LongSword
+[2023.05.02-21.09.20:597][ 31]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/CelticWeapons_SM_LongSword1E8B9A1245A55ACAD46298AE6E732336.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_LongSword.uasset'
+[2023.05.02-21.09.20:613][ 31]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_QuaterStaff
+[2023.05.02-21.09.20:613][ 31]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/CelticWeapons_SM_QuaterStaffF2C9713B4F736C813EFD89ADDBA02273.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_QuaterStaff.uasset'
+[2023.05.02-21.09.20:620][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave took 204 ms (total: 2.34 sec)
+[2023.05.02-21.09.20:721][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.05.02-21.09.20:750][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.05.02-21.09.20:780][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.05.02-21.09.20:797][ 31]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.02-21.09.20:797][ 31]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_Halberd.CelticWeapons_SM_Halberd
+[2023.05.02-21.09.20:797][ 31]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_QuaterStaff.CelticWeapons_SM_QuaterStaff
+[2023.05.02-21.09.20:797][ 31]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_Cudgle_.CelticWeapons_SM_Cudgle_
+[2023.05.02-21.09.20:797][ 31]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_Dager.CelticWeapons_SM_Dager
+[2023.05.02-21.09.20:797][ 31]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_BattleAxe.CelticWeapons_SM_BattleAxe
+[2023.05.02-21.09.20:797][ 31]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_LongSword.CelticWeapons_SM_LongSword
+[2023.05.02-21.09.20:797][ 31]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_ShortSword.CelticWeapons_SM_ShortSword
+[2023.05.02-21.09.20:797][ 31]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/WeaponsTextures/MedivialWeapons_2K_OcclusionRoughnessMetallic.MedivialWeapons_2K_OcclusionRoughnessMetallic
+[2023.05.02-21.09.20:797][ 31]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/WeaponsTextures/MedivialWeapons_4K_OcclusionRoughnessMetallic.MedivialWeapons_4K_OcclusionRoughnessMetallic
+[2023.05.02-21.09.20:797][ 31]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/WeaponsTextures/MedivialWeapons_4K_BaseColor.MedivialWeapons_4K_BaseColor
+[2023.05.02-21.09.20:797][ 31]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/WeaponsTextures/MedivialWeapons_2K_Normal.MedivialWeapons_2K_Normal
+[2023.05.02-21.09.20:797][ 31]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/WeaponsTextures/MedivialWeapons_4K_Normal.MedivialWeapons_4K_Normal
+[2023.05.02-21.09.20:797][ 31]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/WeaponsTextures/MedivialWeapons_2K_BaseColor.MedivialWeapons_2K_BaseColor
+[2023.05.02-21.09.31:939][128]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_ShortSword.CelticWeapons_SM_ShortSword
+[2023.05.02-21.09.31:949][128]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.02-21.09.32:152][128]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display: ================================================
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display: Total job queries 149, among them cache hits 12 (8.05%)
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display: Tracking 137 distinct input hashes that result in 106 distinct outputs (77.37%)
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display: RAM used: 1.10 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.07%
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display: Shaders Compiled: 22
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display: Jobs assigned 22, completed 22 (100.00%)
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display: Average time worker was idle: 258.33 s
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display: Job execution time: average 0.56 s, max 0.83 s
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display: Job life time (pending + execution): average 0.62 s, max 0.87
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.76 s
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display: Jobs were issued in 22 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display: Average processing rate: 4.63 jobs/sec
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display: Total thread time: 9.42 s
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display: Total thread preprocess time: 0.57 s
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display: Percentage time preprocessing: 6.01%
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display: Effective parallelization: 1.98 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.49 sec, max 0.54 sec, min 0.45 sec)
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    7 times, average 0.46 sec, max 0.50 sec, min 0.43 sec)
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    4 times, average 0.43 sec, max 0.45 sec, min 0.40 sec)
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    4 times, average 0.26 sec, max 0.28 sec, min 0.24 sec)
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 36.57% of total time (compiled    7 times, average 0.49 sec, max 0.54 sec, min 0.45 sec)
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 34.27% of total time (compiled    7 times, average 0.46 sec, max 0.50 sec, min 0.43 sec)
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display:                                                 FLumenCardVS - 18.31% of total time (compiled    4 times, average 0.43 sec, max 0.45 sec, min 0.40 sec)
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.85% of total time (compiled    4 times, average 0.26 sec, max 0.28 sec, min 0.24 sec)
+[2023.05.02-21.09.35:411][493]LogShaderCompilers: Display: ================================================
+[2023.05.02-21.12.04:750][958]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.05.02-21.12.04:757][958]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.05.02-21.12.04:764][959]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.05.02-21.12.20:390][832]LogContentBrowser: Attempting asset rename: NewMaterial -> Weapon_P1_M
+[2023.05.02-21.12.20:390][832]LogContentBrowser: End creating deferred item NewMaterial
+[2023.05.02-21.12.22:866][118]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/Weapon_P1_M.Weapon_P1_M
+[2023.05.02-21.12.22:877][118]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.02-21.12.22:938][118]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-21.12.22:938][118]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.02-21.12.22:938][118]MaterialEditorStats: Shader Count: 0
+[2023.05.02-21.12.22:942][118]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2023.05.02-21.12.23:660][193]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.05.02-21.12.23:660][193]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-21.12.23:660][193]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.02-21.12.23:660][193]MaterialEditorStats: Shader Count: 3
+[2023.05.02-21.12.23:760][205]MaterialEditorStats: Base pass shader: 211 instructions
+[2023.05.02-21.12.23:760][205]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.05.02-21.12.23:760][205]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.02-21.12.23:760][205]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.02-21.12.23:760][205]MaterialEditorStats: Shader Count: 4
+[2023.05.02-21.12.45:875][717]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-21.12.45:875][717]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.02-21.12.45:875][717]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-21.12.45:875][717]MaterialEditorStats: Shader Count: 0
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display: ================================================
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display: Total job queries 171, among them cache hits 20 (11.70%)
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display: Tracking 147 distinct input hashes that result in 111 distinct outputs (75.51%)
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display: RAM used: 1.15 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.07%
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display: Shaders Compiled: 32
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display: Jobs assigned 32, completed 32 (100.00%)
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display: Average time worker was idle: 278.16 s
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display: Job execution time: average 0.60 s, max 0.83 s
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display: Job life time (pending + execution): average 0.66 s, max 0.87
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.43 s
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display: Jobs were issued in 32 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display: Average processing rate: 4.98 jobs/sec
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display: Total thread time: 14.66 s
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display: Total thread preprocess time: 0.88 s
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display: Percentage time preprocessing: 5.99%
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display: Effective parallelization: 2.28 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   11 times, average 0.52 sec, max 0.59 sec, min 0.45 sec)
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   11 times, average 0.51 sec, max 0.64 sec, min 0.43 sec)
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    5 times, average 0.43 sec, max 0.45 sec, min 0.40 sec)
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    5 times, average 0.25 sec, max 0.28 sec, min 0.23 sec)
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 38.85% of total time (compiled   11 times, average 0.52 sec, max 0.59 sec, min 0.45 sec)
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 37.95% of total time (compiled   11 times, average 0.51 sec, max 0.64 sec, min 0.43 sec)
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.62% of total time (compiled    5 times, average 0.43 sec, max 0.45 sec, min 0.40 sec)
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.57% of total time (compiled    5 times, average 0.25 sec, max 0.28 sec, min 0.23 sec)
+[2023.05.02-21.12.45:905][719]LogShaderCompilers: Display: ================================================
+[2023.05.02-21.12.46:279][754]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.02-21.12.46:279][754]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.02-21.12.46:279][754]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-21.12.46:279][754]MaterialEditorStats: Shader Count: 1
+[2023.05.02-21.12.46:581][786]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.05.02-21.12.46:581][786]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-21.12.46:581][786]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.02-21.12.46:581][786]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.02-21.12.46:581][786]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-21.12.46:581][786]MaterialEditorStats: Shader Count: 4
+[2023.05.02-21.12.53:672][583]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-21.12.53:672][583]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-21.12.53:672][583]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-21.12.53:672][583]MaterialEditorStats: Shader Count: 0
+[2023.05.02-21.12.54:086][628]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.02-21.12.54:087][628]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-21.12.54:087][628]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-21.12.54:087][628]MaterialEditorStats: Shader Count: 1
+[2023.05.02-21.12.54:299][652]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-21.12.54:299][652]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.02-21.12.54:299][652]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-21.12.54:299][652]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-21.12.54:299][652]MaterialEditorStats: Shader Count: 3
+[2023.05.02-21.12.54:392][663]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.05.02-21.12.54:392][663]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-21.12.54:392][663]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.02-21.12.54:392][663]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-21.12.54:392][663]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-21.12.54:392][663]MaterialEditorStats: Shader Count: 4
+[2023.05.02-21.13.06:201][  5]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-21.13.06:201][  5]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.02-21.13.06:201][  5]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-21.13.06:201][  5]MaterialEditorStats: Shader Count: 0
+[2023.05.02-21.13.06:235][  7]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.05.02-21.13.06:235][  7]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-21.13.06:235][  7]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.02-21.13.06:235][  7]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.02-21.13.06:235][  7]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-21.13.06:235][  7]MaterialEditorStats: Shader Count: 4
+[2023.05.02-21.13.10:202][440]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-21.13.10:203][440]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-21.13.10:203][440]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-21.13.10:203][440]MaterialEditorStats: Shader Count: 0
+[2023.05.02-21.13.10:535][476]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.02-21.13.10:536][476]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-21.13.10:536][476]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-21.13.10:536][476]MaterialEditorStats: Shader Count: 1
+[2023.05.02-21.13.10:734][499]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-21.13.10:735][499]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.02-21.13.10:735][499]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-21.13.10:735][499]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-21.13.10:735][499]MaterialEditorStats: Shader Count: 3
+[2023.05.02-21.13.10:835][511]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.05.02-21.13.10:835][511]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-21.13.10:835][511]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.02-21.13.10:835][511]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-21.13.10:835][511]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-21.13.10:836][511]MaterialEditorStats: Shader Count: 4
+[2023.05.02-21.13.17:014][226]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-21.13.17:014][226]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-21.13.17:014][226]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-21.13.17:014][226]MaterialEditorStats: Shader Count: 0
+[2023.05.02-21.13.17:548][281]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.02-21.13.17:548][281]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-21.13.17:548][281]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-21.13.17:548][281]MaterialEditorStats: Shader Count: 1
+[2023.05.02-21.13.17:652][291]MaterialEditorStats: Base pass shader: 220 instructions
+[2023.05.02-21.13.17:652][291]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-21.13.17:652][291]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.02-21.13.17:653][291]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-21.13.17:653][291]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-21.13.17:653][291]MaterialEditorStats: Shader Count: 3
+[2023.05.02-21.13.24:096][ 29]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-21.13.24:096][ 29]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-21.13.24:096][ 29]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-21.13.24:096][ 29]MaterialEditorStats: Shader Count: 0
+[2023.05.02-21.13.24:479][ 69]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.02-21.13.24:479][ 69]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-21.13.24:479][ 69]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-21.13.24:479][ 69]MaterialEditorStats: Shader Count: 1
+[2023.05.02-21.13.24:685][ 90]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-21.13.24:685][ 90]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.02-21.13.24:685][ 90]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-21.13.24:685][ 90]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-21.13.24:685][ 90]MaterialEditorStats: Shader Count: 3
+[2023.05.02-21.13.24:785][102]MaterialEditorStats: Base pass shader: 222 instructions
+[2023.05.02-21.13.24:785][102]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-21.13.24:785][102]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.02-21.13.24:785][102]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-21.13.24:785][102]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-21.13.24:785][102]MaterialEditorStats: Shader Count: 4
+[2023.05.02-21.13.27:688][421]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-21.13.27:688][421]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-21.13.27:688][421]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-21.13.27:688][421]MaterialEditorStats: Shader Count: 0
+[2023.05.02-21.13.28:083][461]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.02-21.13.28:084][461]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-21.13.28:084][461]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-21.13.28:084][461]MaterialEditorStats: Shader Count: 1
+[2023.05.02-21.13.28:293][483]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-21.13.28:294][483]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.02-21.13.28:294][483]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-21.13.28:294][483]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-21.13.28:294][483]MaterialEditorStats: Shader Count: 3
+[2023.05.02-21.13.28:397][493]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.05.02-21.13.28:397][493]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-21.13.28:397][493]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.02-21.13.28:397][493]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-21.13.28:397][493]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-21.13.28:397][493]MaterialEditorStats: Shader Count: 4
+[2023.05.02-21.13.30:481][723]LogMaterialEditor: Saving and Compiling material Weapon_P1_M
+[2023.05.02-21.13.30:902][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.05.02-21.13.31:550][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.05.02-21.13.31:558][723]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-21.13.32:754][723]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/Weapon_P1_M
+[2023.05.02-21.13.32:754][723]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/Weapon_P1_M2B92DBE44C96D8C8F11E72AA14136389.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Pack1/Weapon_P1_M.uasset'
+[2023.05.02-21.13.32:759][723]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.20 sec (total: 3.54 sec)
+[2023.05.02-21.13.32:765][723]AssetCheck: New page: Asset Save: Weapon_P1_M
+[2023.05.02-21.13.32:765][723]LogContentValidation: Display: Validating /Script/Engine.Material /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/Weapon_P1_M.Weapon_P1_M
+[2023.05.02-21.13.32:766][723]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.05.02-21.13.32:766][723]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-21.13.32:766][723]MaterialEditorStats: MaxSampler: 294 instructions
+[2023.05.02-21.13.32:766][723]MaterialEditorStats: Texture samplers: 6/16
+[2023.05.02-21.13.32:766][723]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-21.13.32:766][723]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-21.13.32:766][723]MaterialEditorStats: Shader Count: 16
+[2023.05.02-21.13.33:930][848]LogMaterialEditor: Saving and Compiling material Weapon_P1_M
+[2023.05.02-21.13.33:932][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-21.13.33:990][848]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/Weapon_P1_M
+[2023.05.02-21.13.33:990][848]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/Weapon_P1_MC23094FA48F204327F3C10AFFDC2F46B.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Pack1/Weapon_P1_M.uasset'
+[2023.05.02-21.13.33:996][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 3.60 sec)
+[2023.05.02-21.13.34:003][848]AssetCheck: New page: Asset Save: Weapon_P1_M
+[2023.05.02-21.13.34:003][848]LogContentValidation: Display: Validating /Script/Engine.Material /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/Weapon_P1_M.Weapon_P1_M
+[2023.05.02-21.14.02:446][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-21.14.02:525][145]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_ShortSword
+[2023.05.02-21.14.02:525][145]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/CelticWeapons_SM_ShortSwordD58BA3994878F5C52CAE1583DC1BE5D5.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_ShortSword.uasset'
+[2023.05.02-21.14.02:530][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 3.69 sec)
+[2023.05.02-21.14.02:538][145]AssetCheck: New page: Asset Save: CelticWeapons_SM_ShortSword
+[2023.05.02-21.14.02:538][145]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_ShortSword.CelticWeapons_SM_ShortSword
+[2023.05.02-21.14.03:378][246]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-21.14.03:424][246]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_ShortSword
+[2023.05.02-21.14.03:425][246]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/CelticWeapons_SM_ShortSword3C346B1D47FF199DB4528B91CB725E20.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_ShortSword.uasset'
+[2023.05.02-21.14.03:429][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 3.74 sec)
+[2023.05.02-21.14.03:436][246]AssetCheck: New page: Asset Save: CelticWeapons_SM_ShortSword
+[2023.05.02-21.14.03:436][246]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_ShortSword.CelticWeapons_SM_ShortSword
+[2023.05.02-21.14.09:136][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.05.02-21.14.09:140][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-21.14.09:173][898]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/WI/W3FTL0U2L28RJD4VQN12TE
+[2023.05.02-21.14.09:173][898]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/W3FTL0U2L28RJD4VQN12TE1FB2181F474A9BD43DE6FF856D86C111.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/WI/W3FTL0U2L28RJD4VQN12TE.uasset'
+[2023.05.02-21.14.09:175][898]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT
+[2023.05.02-21.14.09:175][898]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/ItemInfo_DT13645E73414C40C33701A8AFAA259806.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/ItemInfo_DT.uasset'
+[2023.05.02-21.14.09:206][898]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/InteractionSystem/RustedSword_BP
+[2023.05.02-21.14.09:206][898]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/RustedSword_BP0C19790840687A9A876B7BAACC3CA81A.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/RustedSword_BP.uasset'
+[2023.05.02-21.14.09:212][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 3.81 sec)
+[2023.05.02-21.14.09:222][898]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.02-21.14.09:222][898]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT.ItemInfo_DT
+[2023.05.02-21.14.09:222][898]LogContentValidation: Display: Validating /Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.HealthPotion_BPint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.HealthPotion_BPint_C_UAID_047C1607C12FBC7E01_2042159303
+[2023.05.02-21.14.09:222][898]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_MainFile/Nicole/InteractionSystem/RustedSword_BP.RustedSword_BP
+[2023.05.02-21.17.15:060][893]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-21.17.15:130][893]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_ShortSword
+[2023.05.02-21.17.15:130][893]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/CelticWeapons_SM_ShortSword8BCBBEFB4A74BA54459E19A1AF7D8998.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_ShortSword.uasset'
+[2023.05.02-21.17.15:136][893]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 3.88 sec)
+[2023.05.02-21.17.15:146][893]AssetCheck: New page: Asset Save: CelticWeapons_SM_ShortSword
+[2023.05.02-21.17.15:146][893]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/_MainFile/Nicole/AssetImports/Weapons/Pack1/CelticWeapons_SM_ShortSword.CelticWeapons_SM_ShortSword
+[2023.05.02-21.17.40:878][ 99]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.02-21.17.40:879][ 99]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.02-21.17.40:879][ 99]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.02-21.19.06:403][190]LogTexture: Display: Building textures: /Game/Weapon_Icons_Pro/sword_5.sword_5 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2023.05.02-21.19.32:319][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.05.02-21.19.32:327][142]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-21.19.32:385][142]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT
+[2023.05.02-21.19.32:386][142]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/ItemInfo_DT20769674403A7CCC405639A0E411D2D0.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/ItemInfo_DT.uasset'
+[2023.05.02-21.19.32:415][142]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/InteractionSystem/RustedSword_BP
+[2023.05.02-21.19.32:415][142]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/RustedSword_BPE71100B541686E12AE7D9B8F6703B45A.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/RustedSword_BP.uasset'
+[2023.05.02-21.19.32:420][142]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 3.98 sec)
+[2023.05.02-21.19.32:426][142]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.02-21.19.32:426][142]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT.ItemInfo_DT
+[2023.05.02-21.19.32:426][142]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_MainFile/Nicole/InteractionSystem/RustedSword_BP.RustedSword_BP
+[2023.05.02-21.20.22:047][886]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-21.20.22:103][886]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT
+[2023.05.02-21.20.22:104][886]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/ItemInfo_DTB02569E44414A2B8DDF472AF6E9D3A78.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/ItemInfo_DT.uasset'
+[2023.05.02-21.20.22:109][886]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 4.04 sec)
+[2023.05.02-21.20.22:117][886]AssetCheck: New page: Asset Save: ItemInfo_DT
+[2023.05.02-21.20.22:117][886]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT.ItemInfo_DT
+[2023.05.02-21.24.28:595][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-21.24.28:635][ 63]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT
+[2023.05.02-21.24.28:635][ 63]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/ItemInfo_DT1E3B50284F33FEC811EDF1A0FD92AA9F.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/ItemInfo_DT.uasset'
+[2023.05.02-21.24.28:642][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 4.09 sec)
+[2023.05.02-21.24.28:654][ 63]AssetCheck: New page: Asset Save: ItemInfo_DT
+[2023.05.02-21.24.28:654][ 63]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT.ItemInfo_DT
+[2023.05.02-21.24.29:486][163]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-21.24.29:533][163]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT
+[2023.05.02-21.24.29:533][163]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/ItemInfo_DT569809D4457C98264EF32AA73DAB4DE7.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/ItemInfo_DT.uasset'
+[2023.05.02-21.24.29:539][163]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 4.14 sec)
+[2023.05.02-21.24.29:545][163]AssetCheck: New page: Asset Save: ItemInfo_DT
+[2023.05.02-21.24.29:545][163]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT.ItemInfo_DT
+[2023.05.02-21.25.40:022][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.05.02-21.25.40:025][ 82]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.038
+[2023.05.02-21.25.40:025][ 82]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT] ([1] browsable assets)...
+[2023.05.02-21.25.40:025][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT]
+[2023.05.02-21.25.40:026][ 82]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT_Auto3
+[2023.05.02-21.25.40:026][ 82]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/ItemInfo_DT_Auto3DEF53A0F4514814835D39E9DF73D384F.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/Autosaves/Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT_Auto3.uasset'
+[2023.05.02-21.25.40:027][ 82]LogFileHelpers: Auto-saving content packages took 0.002
+[2023.05.02-21.42.38:521][138]LogDerivedDataCache: C:/Users/Scarlet/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:14.096 and deleted 0 files with total size 0 MiB. Scanned 39372 files in 35525 folders with total size 8150 MiB.
+[2023.05.02-22.17.48:737][356]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.02-22.17.48:760][356]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.02-22.17.48:766][357]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.02-22.17.55:681][184]LogContentBrowser: Attempting asset rename: NewFolder -> Shields
+[2023.05.02-22.17.55:682][184]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.02-22.18.04:144][163]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.02-22.18.04:159][163]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.02-22.18.04:166][164]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.02-22.18.22:277][337]LogContentBrowser: Attempting asset rename: NewFolder -> z_NonPlayer
+[2023.05.02-22.18.22:277][337]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.02-22.18.31:894][454]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.02-22.18.31:900][454]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.02-22.18.31:916][456]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.02-22.18.34:747][794]LogContentBrowser: Attempting asset rename: NewFolder -> Wooden
+[2023.05.02-22.18.34:747][794]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.02-22.18.54:491][115]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2023.05.02-22.18.54:502][115]LogInterchangeEngine: [Pending] Importing
+[2023.05.02-22.18.54:503][115]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.05.02-22.18.54:503][115]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.05.02-22.18.54:503][115]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.05.02-22.18.54:514][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:516][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:516][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:516][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:516][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:517][115]LogTemp: Warning: Unknown keyword: s
+[2023.05.02-22.18.54:556][116]LogStaticMesh: Display: Building static mesh uploads_files_795214_Round+Shield...
+[2023.05.02-22.18.54:564][116]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.05.02-22.18.54:565][116]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.05.02-22.18.54:570][116]LogStaticMesh: Built static mesh [0.01s] /Game/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/uploads_files_795214_Round+Shield.uploads_files_795214_Round+Shield
+[2023.05.02-22.18.54:572][116]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.05.02-22.18.54:572][116]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.05.02-22.18.54:573][116]LogTexture: Display: Building textures: /Game/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/uploads_files_795214_Round+Shield_1001_SpecularSmoothness.uploads_files_795214_Round+Shield_1001_SpecularSmoothness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.05.02-22.18.54:582][116]LogTexture: Display: Building textures: /Game/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/uploads_files_795214_Round+Shield_1001_Normal.uploads_files_795214_Round+Shield_1001_Normal (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.05.02-22.18.54:583][116]LogTexture: Display: Building textures: /Game/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/uploads_files_795214_Round+Shield_1001_AlbedoTransparency.uploads_files_795214_Round+Shield_1001_AlbedoTransparency (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.05.02-22.18.54:666][116]LogInterchangeEngine: [Success] Import Done
+[2023.05.02-22.18.54:731][117]LogInterchangeEngine: [Success] Import Done
+[2023.05.02-22.18.54:845][118]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.05.02-22.18.54:850][118]LogTexture: Display: Building textures: /Game/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/uploads_files_795214_Round+Shield_1001_Normal.uploads_files_795214_Round+Shield_1001_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2023.05.02-22.19.06:934][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.05.02-22.19.06:941][460]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-22.19.07:002][460]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT
+[2023.05.02-22.19.07:002][460]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/ItemInfo_DTC726FA3E4F81C997296C0E9129B5D621.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/ItemInfo_DT.uasset'
+[2023.05.02-22.19.07:086][460]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/uploads_files_795214_Round+Shield_1001_AlbedoTransparency
+[2023.05.02-22.19.07:086][460]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/uploads_files_795214_Round+ShielFDBD313E418CCB1730792DA9FE378605.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/uploads_files_795214_Round+Shield_1001_AlbedoTransparency.uasset'
+[2023.05.02-22.19.07:163][460]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/uploads_files_795214_Round+Shield_1001_Normal
+[2023.05.02-22.19.07:163][460]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/uploads_files_795214_Round+Shiel754B770E461381CCD244A3A5E2DB2AE9.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/uploads_files_795214_Round+Shield_1001_Normal.uasset'
+[2023.05.02-22.19.07:233][460]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/uploads_files_795214_Round+Shield_1001_SpecularSmoothness
+[2023.05.02-22.19.07:233][460]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/uploads_files_795214_Round+Shiel9BF3E851471D5BC0BEB91F997A55A989.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/uploads_files_795214_Round+Shield_1001_SpecularSmoothness.uasset'
+[2023.05.02-22.19.07:272][460]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/uploads_files_795214_Round+Shield
+[2023.05.02-22.19.07:272][460]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/uploads_files_795214_Round+ShielC389E99A45A15C45C432A384C75C0819.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/uploads_files_795214_Round+Shield.uasset'
+[2023.05.02-22.19.07:281][460]LogFileHelpers: InternalPromptForCheckoutAndSave took 340 ms (total: 4.48 sec)
+[2023.05.02-22.19.07:287][460]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.02-22.19.07:287][460]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT.ItemInfo_DT
+[2023.05.02-22.19.07:287][460]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/uploads_files_795214_Round+Shield.uploads_files_795214_Round+Shield
+[2023.05.02-22.19.07:287][460]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/uploads_files_795214_Round+Shield_1001_SpecularSmoothness.uploads_files_795214_Round+Shield_1001_SpecularSmoothness
+[2023.05.02-22.19.07:287][460]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/uploads_files_795214_Round+Shield_1001_Normal.uploads_files_795214_Round+Shield_1001_Normal
+[2023.05.02-22.19.07:287][460]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/uploads_files_795214_Round+Shield_1001_AlbedoTransparency.uploads_files_795214_Round+Shield_1001_AlbedoTransparency
+[2023.05.02-22.19.38:177][223]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.05.02-22.19.38:184][223]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.05.02-22.19.38:192][224]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.05.02-22.19.46:832][261]LogContentBrowser: Attempting asset rename: NewMaterial -> WoodenShield_M
+[2023.05.02-22.19.46:833][261]LogContentBrowser: End creating deferred item NewMaterial
+[2023.05.02-22.20.06:446][553]LogContentBrowser: Attempting asset rename: uploads_files_795214_Round+Shield -> WoodenShield_SM
+[2023.05.02-22.20.06:484][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-22.20.06:537][553]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/WoodenShield_SM
+[2023.05.02-22.20.06:537][553]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/WoodenShield_SM74B81A014DE3770C375A74B56D5F34BF.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/WoodenShield_SM.uasset'
+[2023.05.02-22.20.06:544][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 4.54 sec)
+[2023.05.02-22.20.06:595][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.05.02-22.20.06:628][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.05.02-22.20.06:658][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.05.02-22.20.06:664][553]AssetCheck: New page: Asset Save: WoodenShield_SM
+[2023.05.02-22.20.06:664][553]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/WoodenShield_SM.WoodenShield_SM
+[2023.05.02-22.20.09:910][937]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-22.20.09:964][937]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT
+[2023.05.02-22.20.09:964][937]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/ItemInfo_DT57FD328A4FC70DC7F398C38810331641.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/ItemInfo_DT.uasset'
+[2023.05.02-22.20.09:969][937]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 4.60 sec)
+[2023.05.02-22.20.09:976][937]AssetCheck: New page: Asset Save: ItemInfo_DT
+[2023.05.02-22.20.09:976][937]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT.ItemInfo_DT
+[2023.05.02-22.20.12:960][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.02-22.20.12:963][276]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-22.20.13:051][276]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/WoodenShield_M
+[2023.05.02-22.20.13:051][276]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/WoodenShield_M69B7620B4E80AF7C55996DA8372E55A8.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/WoodenShield_M.uasset'
+[2023.05.02-22.20.13:059][276]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 4.70 sec)
+[2023.05.02-22.20.13:064][276]AssetCheck: New page: Asset Save: WoodenShield_M
+[2023.05.02-22.20.13:064][276]LogContentValidation: Display: Validating /Script/Engine.Material /Game/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/WoodenShield_M.WoodenShield_M
+[2023.05.02-22.21.45:095][985]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/WoodenShield_M.WoodenShield_M
+[2023.05.02-22.21.45:099][985]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.02-22.21.45:183][985]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-22.21.45:183][985]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.02-22.21.45:184][985]MaterialEditorStats: Shader Count: 0
+[2023.05.02-22.21.45:188][985]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2023.05.02-22.21.45:685][ 38]LogShaderCompilers: Display: ================================================
+[2023.05.02-22.21.45:685][ 38]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.02-22.21.45:685][ 38]LogShaderCompilers: Display: Total job queries 254, among them cache hits 67 (26.38%)
+[2023.05.02-22.21.45:685][ 38]LogShaderCompilers: Display: Tracking 184 distinct input hashes that result in 129 distinct outputs (70.11%)
+[2023.05.02-22.21.45:685][ 38]LogShaderCompilers: Display: RAM used: 1.39 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.09%
+[2023.05.02-22.21.45:685][ 38]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.02-22.21.45:685][ 38]LogShaderCompilers: Display: Shaders Compiled: 69
+[2023.05.02-22.21.45:685][ 38]LogShaderCompilers: Display: Jobs assigned 72, completed 69 (95.83%)
+[2023.05.02-22.21.45:685][ 38]LogShaderCompilers: Display: Average time worker was idle: 374.19 s
+[2023.05.02-22.21.45:685][ 38]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.59 s
+[2023.05.02-22.21.45:685][ 38]LogShaderCompilers: Display: Job execution time: average 0.56 s, max 0.83 s
+[2023.05.02-22.21.45:685][ 38]LogShaderCompilers: Display: Job life time (pending + execution): average 0.63 s, max 1.10
+[2023.05.02-22.21.45:685][ 38]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.56 s
+[2023.05.02-22.21.45:686][ 38]LogShaderCompilers: Display: Jobs were issued in 72 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.02-22.21.45:686][ 38]LogShaderCompilers: Display: Average processing rate: 5.49 jobs/sec
+[2023.05.02-22.21.45:686][ 38]LogShaderCompilers: Display: Total thread time: 30.54 s
+[2023.05.02-22.21.45:686][ 38]LogShaderCompilers: Display: Total thread preprocess time: 1.82 s
+[2023.05.02-22.21.45:686][ 38]LogShaderCompilers: Display: Percentage time preprocessing: 5.97%
+[2023.05.02-22.21.45:686][ 38]LogShaderCompilers: Display: Effective parallelization: 2.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.02-22.21.45:686][ 38]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.02-22.21.45:686][ 38]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.55 sec, max 0.55 sec, min 0.55 sec)
+[2023.05.02-22.21.45:686][ 38]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 0.55 sec, max 0.55 sec, min 0.55 sec)
+[2023.05.02-22.21.45:686][ 38]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2023.05.02-22.21.45:686][ 38]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2023.05.02-22.21.45:686][ 38]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2023.05.02-22.21.45:686][ 38]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.02-22.21.45:686][ 38]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 28.91% of total time (compiled   17 times, average 0.52 sec, max 0.59 sec, min 0.45 sec)
+[2023.05.02-22.21.45:686][ 38]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.89% of total time (compiled   17 times, average 0.50 sec, max 0.64 sec, min 0.43 sec)
+[2023.05.02-22.21.45:686][ 38]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.65% of total time (compiled   11 times, average 0.43 sec, max 0.51 sec, min 0.40 sec)
+[2023.05.02-22.21.45:686][ 38]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.84% of total time (compiled   12 times, average 0.25 sec, max 0.29 sec, min 0.23 sec)
+[2023.05.02-22.21.45:686][ 38]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 1.81% of total time (compiled    1 times, average 0.55 sec, max 0.55 sec, min 0.55 sec)
+[2023.05.02-22.21.45:686][ 38]LogShaderCompilers: Display: ================================================
+[2023.05.02-22.21.46:000][ 74]MaterialEditorStats: Base pass shader: 211 instructions
+[2023.05.02-22.21.46:000][ 74]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.05.02-22.21.46:000][ 74]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.02-22.21.46:000][ 74]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.02-22.21.46:000][ 74]MaterialEditorStats: Shader Count: 4
+[2023.05.02-22.21.56:622][228]LogViewport: Scene viewport resized to 375x456, mode Windowed.
+[2023.05.02-22.21.56:689][230]LogViewport: Scene viewport resized to 198x218, mode Windowed.
+[2023.05.02-22.21.56:713][231]LogViewport: Scene viewport resized to 151x155, mode Windowed.
+[2023.05.02-22.21.56:919][254]LogViewport: Scene viewport resized to 347x153, mode Windowed.
+[2023.05.02-22.21.56:989][255]LogViewport: Scene viewport resized to 346x153, mode Windowed.
+[2023.05.02-22.21.57:090][257]LogViewport: Scene viewport resized to 151x37, mode Windowed.
+[2023.05.02-22.21.57:172][266]LogViewport: Scene viewport resized to 347x153, mode Windowed.
+[2023.05.02-22.21.57:239][267]LogViewport: Scene viewport resized to 346x153, mode Windowed.
+[2023.05.02-22.21.57:356][269]LogViewport: Scene viewport resized to 152x37, mode Windowed.
+[2023.05.02-22.21.57:379][270]LogViewport: Scene viewport resized to 151x37, mode Windowed.
+[2023.05.02-22.21.57:856][318]LogViewport: Scene viewport resized to 152x42, mode Windowed.
+[2023.05.02-22.21.58:923][379]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2023.05.02-22.22.18:550][155]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-22.22.18:550][155]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.02-22.22.18:550][155]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.22.18:550][155]MaterialEditorStats: Shader Count: 0
+[2023.05.02-22.22.19:053][184]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.02-22.22.19:053][184]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.02-22.22.19:053][184]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.22.19:053][184]MaterialEditorStats: Shader Count: 1
+[2023.05.02-22.22.19:346][203]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.05.02-22.22.19:346][203]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-22.22.19:346][203]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.02-22.22.19:346][203]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.02-22.22.19:346][203]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.22.19:346][203]MaterialEditorStats: Shader Count: 4
+[2023.05.02-22.22.23:704][576]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-22.22.23:704][576]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-22.22.23:704][576]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.22.23:704][576]MaterialEditorStats: Shader Count: 0
+[2023.05.02-22.22.24:095][599]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.02-22.22.24:095][599]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-22.22.24:095][599]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.22.24:095][599]MaterialEditorStats: Shader Count: 1
+[2023.05.02-22.22.24:383][619]MaterialEditorStats: Base pass shader: 225 instructions
+[2023.05.02-22.22.24:383][619]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-22.22.24:383][619]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.02-22.22.24:383][619]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-22.22.24:383][619]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.22.24:383][619]MaterialEditorStats: Shader Count: 4
+[2023.05.02-22.22.38:439][845]LogMaterialEditor: Saving and Compiling material WoodenShield_M
+[2023.05.02-22.22.38:887][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.05.02-22.22.39:418][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.05.02-22.22.39:426][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-22.22.40:723][845]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/WoodenShield_M
+[2023.05.02-22.22.40:723][845]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/WoodenShield_M9D6C7C6A488BE4AED65C56B4F951D5B6.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/WoodenShield_M.uasset'
+[2023.05.02-22.22.40:730][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.30 sec (total: 6.00 sec)
+[2023.05.02-22.22.40:736][845]AssetCheck: New page: Asset Save: WoodenShield_M
+[2023.05.02-22.22.40:736][845]LogContentValidation: Display: Validating /Script/Engine.Material /Game/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/WoodenShield_M.WoodenShield_M
+[2023.05.02-22.22.40:737][845]MaterialEditorStats: Base pass shader: 225 instructions
+[2023.05.02-22.22.40:737][845]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-22.22.40:737][845]MaterialEditorStats: MaxSampler: 275 instructions
+[2023.05.02-22.22.40:737][845]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.02-22.22.40:737][845]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-22.22.40:737][845]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.22.40:737][845]MaterialEditorStats: Shader Count: 16
+[2023.05.02-22.24.43:489][272]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-22.24.43:489][272]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.24.43:489][272]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.24.43:489][272]MaterialEditorStats: Shader Count: 0
+[2023.05.02-22.24.44:134][309]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.02-22.24.44:134][309]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.24.44:134][309]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.24.44:134][309]MaterialEditorStats: Shader Count: 1
+[2023.05.02-22.24.44:332][324]MaterialEditorStats: Base pass shader: 225 instructions
+[2023.05.02-22.24.44:332][324]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-22.24.44:332][324]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.02-22.24.44:332][324]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.24.44:332][324]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.24.44:332][324]MaterialEditorStats: Shader Count: 4
+[2023.05.02-22.24.49:184][810]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-22.24.49:184][810]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.24.49:184][810]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.24.49:184][810]MaterialEditorStats: Shader Count: 0
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display: ================================================
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display: Total job queries 318, among them cache hits 99 (31.13%)
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display: Tracking 215 distinct input hashes that result in 141 distinct outputs (65.58%)
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display: RAM used: 1.61 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.10%
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display: Shaders Compiled: 100
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display: Jobs assigned 100, completed 100 (100.00%)
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display: Average time worker was idle: 448.23 s
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.65 s
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display: Job execution time: average 0.57 s, max 0.83 s
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display: Job life time (pending + execution): average 0.65 s, max 1.16
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 17.25 s
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display: Jobs were issued in 100 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display: Average processing rate: 5.80 jobs/sec
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display: Total thread time: 44.25 s
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display: Total thread preprocess time: 2.65 s
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display: Percentage time preprocessing: 5.99%
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display: Effective parallelization: 2.57 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.53 sec, max 0.55 sec, min 0.50 sec)
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.52 sec, max 0.54 sec, min 0.51 sec)
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   23 times, average 0.52 sec, max 0.59 sec, min 0.45 sec)
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.52 sec, max 0.54 sec, min 0.49 sec)
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 0.52 sec, max 0.55 sec, min 0.48 sec)
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.92% of total time (compiled   23 times, average 0.52 sec, max 0.59 sec, min 0.45 sec)
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 25.91% of total time (compiled   23 times, average 0.50 sec, max 0.64 sec, min 0.43 sec)
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.81% of total time (compiled   15 times, average 0.44 sec, max 0.51 sec, min 0.40 sec)
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.56% of total time (compiled   15 times, average 0.25 sec, max 0.29 sec, min 0.23 sec)
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 2.39% of total time (compiled    2 times, average 0.53 sec, max 0.55 sec, min 0.50 sec)
+[2023.05.02-22.24.49:221][812]LogShaderCompilers: Display: ================================================
+[2023.05.02-22.24.49:630][838]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.02-22.24.49:630][838]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.24.49:630][838]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.24.49:630][838]MaterialEditorStats: Shader Count: 1
+[2023.05.02-22.24.49:929][859]MaterialEditorStats: Base pass shader: 228 instructions
+[2023.05.02-22.24.49:929][859]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-22.24.49:929][859]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.02-22.24.49:929][859]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.24.49:929][859]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.24.49:929][859]MaterialEditorStats: Shader Count: 4
+[2023.05.02-22.25.00:615][912]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-22.25.00:616][912]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.00:616][912]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.00:616][912]MaterialEditorStats: Shader Count: 0
+[2023.05.02-22.25.01:085][937]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.02-22.25.01:085][937]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.01:085][937]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.01:085][937]MaterialEditorStats: Shader Count: 1
+[2023.05.02-22.25.01:381][959]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.05.02-22.25.01:381][959]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-22.25.01:381][959]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.02-22.25.01:381][959]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.01:381][959]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.01:381][959]MaterialEditorStats: Shader Count: 4
+[2023.05.02-22.25.07:118][458]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-22.25.07:118][458]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.07:118][458]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.07:118][458]MaterialEditorStats: Shader Count: 0
+[2023.05.02-22.25.07:569][486]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.02-22.25.07:569][486]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.07:569][486]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.07:569][486]MaterialEditorStats: Shader Count: 1
+[2023.05.02-22.25.07:857][504]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.05.02-22.25.07:857][504]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-22.25.07:857][504]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.02-22.25.07:857][504]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.07:857][504]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.07:857][504]MaterialEditorStats: Shader Count: 4
+[2023.05.02-22.25.13:774][  2]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-22.25.13:774][  2]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.13:774][  2]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.13:774][  2]MaterialEditorStats: Shader Count: 0
+[2023.05.02-22.25.14:160][ 23]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.02-22.25.14:160][ 23]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.14:160][ 23]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.14:160][ 23]MaterialEditorStats: Shader Count: 1
+[2023.05.02-22.25.14:455][ 42]MaterialEditorStats: Base pass shader: 229 instructions
+[2023.05.02-22.25.14:455][ 42]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-22.25.14:455][ 42]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.02-22.25.14:455][ 42]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.14:455][ 42]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.14:455][ 42]MaterialEditorStats: Shader Count: 4
+[2023.05.02-22.25.16:141][178]LogEditorTransaction: Undo Create Pin Link
+[2023.05.02-22.25.16:313][178]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-22.25.16:313][178]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.16:313][178]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.16:313][178]MaterialEditorStats: Shader Count: 0
+[2023.05.02-22.25.16:313][178]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-22.25.16:313][178]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.16:313][178]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.16:313][178]MaterialEditorStats: Shader Count: 0
+[2023.05.02-22.25.16:417][180]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.05.02-22.25.16:417][180]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-22.25.16:417][180]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.02-22.25.16:417][180]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.16:417][180]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.16:417][180]MaterialEditorStats: Shader Count: 4
+[2023.05.02-22.25.16:417][180]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.05.02-22.25.16:417][180]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-22.25.16:417][180]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.02-22.25.16:417][180]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.16:417][180]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.16:417][180]MaterialEditorStats: Shader Count: 4
+[2023.05.02-22.25.16:808][196]LogEditorTransaction: Undo Create Pin Link
+[2023.05.02-22.25.16:932][196]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-22.25.16:932][196]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.16:932][196]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.16:932][196]MaterialEditorStats: Shader Count: 0
+[2023.05.02-22.25.16:932][196]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-22.25.16:932][196]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.16:932][196]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.16:932][196]MaterialEditorStats: Shader Count: 0
+[2023.05.02-22.25.16:967][198]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.05.02-22.25.16:968][198]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-22.25.16:968][198]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.02-22.25.16:968][198]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.16:968][198]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.16:968][198]MaterialEditorStats: Shader Count: 4
+[2023.05.02-22.25.16:968][198]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.05.02-22.25.16:968][198]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-22.25.16:968][198]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.02-22.25.16:968][198]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.16:968][198]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.16:968][198]MaterialEditorStats: Shader Count: 4
+[2023.05.02-22.25.17:810][272]LogEditorTransaction: Undo Create Pin Link
+[2023.05.02-22.25.17:926][272]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-22.25.17:926][272]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.17:926][272]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.17:926][272]MaterialEditorStats: Shader Count: 0
+[2023.05.02-22.25.17:926][272]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-22.25.17:926][272]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.17:926][272]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.17:926][272]MaterialEditorStats: Shader Count: 0
+[2023.05.02-22.25.17:969][274]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.05.02-22.25.17:969][274]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-22.25.17:969][274]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.02-22.25.17:969][274]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.17:969][274]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.17:969][274]MaterialEditorStats: Shader Count: 4
+[2023.05.02-22.25.17:969][274]MaterialEditorStats: Base pass shader: 228 instructions
+[2023.05.02-22.25.17:969][274]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-22.25.17:969][274]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.02-22.25.17:969][274]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.17:969][274]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.17:969][274]MaterialEditorStats: Shader Count: 4
+[2023.05.02-22.25.18:581][325]LogEditorTransaction: Undo Create Pin Link
+[2023.05.02-22.25.18:698][325]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-22.25.18:698][325]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.18:698][325]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.18:698][325]MaterialEditorStats: Shader Count: 0
+[2023.05.02-22.25.18:698][325]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-22.25.18:698][325]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.18:698][325]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.18:698][325]MaterialEditorStats: Shader Count: 0
+[2023.05.02-22.25.18:734][327]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.05.02-22.25.18:734][327]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-22.25.18:734][327]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.02-22.25.18:734][327]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.18:734][327]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.18:734][327]MaterialEditorStats: Shader Count: 4
+[2023.05.02-22.25.18:734][327]MaterialEditorStats: Base pass shader: 225 instructions
+[2023.05.02-22.25.18:734][327]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-22.25.18:734][327]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.02-22.25.18:734][327]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.18:734][327]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.18:734][327]MaterialEditorStats: Shader Count: 4
+[2023.05.02-22.25.22:312][642]LogEditorTransaction: Undo Create Pin Link
+[2023.05.02-22.25.22:434][642]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-22.25.22:434][642]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.22:434][642]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.22:434][642]MaterialEditorStats: Shader Count: 0
+[2023.05.02-22.25.22:434][642]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-22.25.22:434][642]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-22.25.22:434][642]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.22:434][642]MaterialEditorStats: Shader Count: 0
+[2023.05.02-22.25.22:543][644]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.05.02-22.25.22:543][644]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-22.25.22:543][644]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.02-22.25.22:543][644]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.22:543][644]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.22:543][644]MaterialEditorStats: Shader Count: 4
+[2023.05.02-22.25.22:543][644]MaterialEditorStats: Base pass shader: 225 instructions
+[2023.05.02-22.25.22:543][644]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-22.25.22:543][644]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.02-22.25.22:543][644]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-22.25.22:543][644]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.22:543][644]MaterialEditorStats: Shader Count: 4
+[2023.05.02-22.25.28:160][187]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-22.25.28:160][187]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.28:160][187]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.28:160][187]MaterialEditorStats: Shader Count: 0
+[2023.05.02-22.25.28:208][190]MaterialEditorStats: Base pass shader: 225 instructions
+[2023.05.02-22.25.28:208][190]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-22.25.28:208][190]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.02-22.25.28:208][190]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.28:208][190]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.28:208][190]MaterialEditorStats: Shader Count: 4
+[2023.05.02-22.25.32:967][647]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-22.25.32:967][647]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.32:967][647]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.32:967][647]MaterialEditorStats: Shader Count: 0
+[2023.05.02-22.25.33:372][674]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.02-22.25.33:372][674]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.33:372][674]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.33:372][674]MaterialEditorStats: Shader Count: 1
+[2023.05.02-22.25.33:564][684]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-22.25.33:564][684]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.02-22.25.33:564][684]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.33:564][684]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.33:564][684]MaterialEditorStats: Shader Count: 3
+[2023.05.02-22.25.33:680][691]MaterialEditorStats: Base pass shader: 229 instructions
+[2023.05.02-22.25.33:680][691]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-22.25.33:680][691]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.02-22.25.33:680][691]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.33:680][691]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.33:680][691]MaterialEditorStats: Shader Count: 4
+[2023.05.02-22.25.42:394][499]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-22.25.42:394][499]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.42:394][499]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.42:394][499]MaterialEditorStats: Shader Count: 0
+[2023.05.02-22.25.42:841][528]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.02-22.25.42:841][528]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.42:841][528]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.42:841][528]MaterialEditorStats: Shader Count: 1
+[2023.05.02-22.25.43:140][551]MaterialEditorStats: Base pass shader: 229 instructions
+[2023.05.02-22.25.43:140][551]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-22.25.43:140][551]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.02-22.25.43:140][551]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.43:140][551]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.43:140][551]MaterialEditorStats: Shader Count: 4
+[2023.05.02-22.25.44:685][695]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-22.25.44:685][695]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.44:685][695]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.44:685][695]MaterialEditorStats: Shader Count: 0
+[2023.05.02-22.25.44:730][698]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.05.02-22.25.44:730][698]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-22.25.44:730][698]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.02-22.25.44:730][698]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.44:730][698]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.44:730][698]MaterialEditorStats: Shader Count: 4
+[2023.05.02-22.25.46:464][832]LogMaterialEditor: Applying material WoodenShield_M
+[2023.05.02-22.25.46:874][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.05.02-22.25.47:502][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.05.02-22.25.47:510][832]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.02-22.25.47:510][832]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.47:510][832]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.47:510][832]MaterialEditorStats: Shader Count: 2
+[2023.05.02-22.25.48:005][878]LogMaterialEditor: Saving and Compiling material WoodenShield_M
+[2023.05.02-22.25.48:006][878]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-22.25.49:152][878]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/WoodenShield_M
+[2023.05.02-22.25.49:152][878]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/WoodenShield_M00BE3AFC466E5FA2D341139F8AA7A7B6.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/WoodenShield_M.uasset'
+[2023.05.02-22.25.49:159][878]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.15 sec (total: 7.15 sec)
+[2023.05.02-22.25.49:165][878]AssetCheck: New page: Asset Save: WoodenShield_M
+[2023.05.02-22.25.49:165][878]LogContentValidation: Display: Validating /Script/Engine.Material /Game/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/WoodenShield_M.WoodenShield_M
+[2023.05.02-22.25.49:166][878]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.05.02-22.25.49:166][878]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.02-22.25.49:166][878]MaterialEditorStats: MaxSampler: 294 instructions
+[2023.05.02-22.25.49:166][878]MaterialEditorStats: Texture samplers: 6/16
+[2023.05.02-22.25.49:166][878]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.02-22.25.49:166][878]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-22.25.49:166][878]MaterialEditorStats: Shader Count: 16
+[2023.05.02-22.26.07:589][278]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/WoodenShield_SM.WoodenShield_SM
+[2023.05.02-22.26.07:594][278]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.02-22.26.07:822][278]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2023.05.02-22.26.35:009][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-22.26.35:081][671]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/WoodenShield_SM
+[2023.05.02-22.26.35:081][671]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/WoodenShield_SM684DA1FF4B675A2093877B90C780FAA0.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/WoodenShield_SM.uasset'
+[2023.05.02-22.26.35:088][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 7.23 sec)
+[2023.05.02-22.26.35:093][671]AssetCheck: New page: Asset Save: WoodenShield_SM
+[2023.05.02-22.26.35:093][671]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/WoodenShield_SM.WoodenShield_SM
+[2023.05.02-22.26.36:587][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-22.26.36:650][802]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/WoodenShield_SM
+[2023.05.02-22.26.36:650][802]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/WoodenShield_SM9AFD4B09493B6DB54074DEB514828EA3.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/WoodenShield_SM.uasset'
+[2023.05.02-22.26.36:658][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 7.30 sec)
+[2023.05.02-22.26.36:663][802]AssetCheck: New page: Asset Save: WoodenShield_SM
+[2023.05.02-22.26.36:663][802]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/_MainFile/Nicole/AssetImports/Weapons/Shields/Wooden/WoodenShield_SM.WoodenShield_SM
+[2023.05.02-22.27.02:358][901]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.02-22.27.02:370][901]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.02-22.27.02:385][902]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.02-22.27.08:724][375]LogContentBrowser: Attempting asset rename: NewFolder -> Weapons
+[2023.05.02-22.27.08:725][375]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.02-22.27.14:661][808]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Weapons/RustedSword_BP.RustedSword_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/RustedSword_BP.PackageMetaData'
+[2023.05.02-22.27.14:661][808]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Weapons/RustedSword_BP.SKEL_RustedSword_BP_C:UserConstructionScript' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/RustedSword_BP.PackageMetaData'
+[2023.05.02-22.27.14:661][808]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Weapons/RustedSword_BP.SKEL_RustedSword_BP_C' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/RustedSword_BP.PackageMetaData'
+[2023.05.02-22.27.14:661][808]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Weapons/RustedSword_BP.RustedSword_BP_C' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/RustedSword_BP.PackageMetaData'
+[2023.05.02-22.27.14:661][808]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Weapons/RustedSword_BP.RustedSword_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/RustedSword_BP.PackageMetaData'
+[2023.05.02-22.27.14:661][808]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Weapons/RustedSword_BP.RustedSword_BP:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/RustedSword_BP.PackageMetaData'
+[2023.05.02-22.27.14:661][808]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Weapons/RustedSword_BP.RustedSword_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/RustedSword_BP.PackageMetaData'
+[2023.05.02-22.27.14:661][808]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Weapons/RustedSword_BP.RustedSword_BP:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/RustedSword_BP.PackageMetaData'
+[2023.05.02-22.27.14:661][808]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Weapons/RustedSword_BP.RustedSword_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/RustedSword_BP.PackageMetaData'
+[2023.05.02-22.27.14:661][808]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Weapons/RustedSword_BP.RustedSword_BP:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/RustedSword_BP.PackageMetaData'
+[2023.05.02-22.27.14:662][808]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-22.27.14:710][808]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT
+[2023.05.02-22.27.14:710][808]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/ItemInfo_DT3BE0138A4E5B1249913B2AA05677ED78.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/ItemInfo_DT.uasset'
+[2023.05.02-22.27.14:714][808]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/InteractionSystem/Weapons/RustedSword_BP
+[2023.05.02-22.27.14:714][808]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/RustedSword_BP103BFC1641C47FAD889AC79FF20F9D79.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/Weapons/RustedSword_BP.uasset'
+[2023.05.02-22.27.14:721][808]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 7.36 sec)
+[2023.05.02-22.27.14:768][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.05.02-22.27.14:801][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.05.02-22.27.14:832][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.02-22.27.14:849][808]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.02-22.27.14:849][808]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT.ItemInfo_DT
+[2023.05.02-22.27.14:849][808]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_MainFile/Nicole/InteractionSystem/Weapons/RustedSword_BP.RustedSword_BP
+[2023.05.02-22.27.18:502][ 61]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.02-22.27.18:554][ 61]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.02-22.27.18:570][ 62]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.02-22.27.31:533][663]LogContentBrowser: Attempting asset rename: NewFolder -> Consum
+[2023.05.02-22.27.31:533][663]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.02-22.27.49:463][ 66]LogContentBrowser: Attempting asset rename: Consum -> Consumables
+[2023.05.02-22.28.00:135][368]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Consumables/HealthPotion_BPint.HealthPotion_BPint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.PackageMetaData'
+[2023.05.02-22.28.00:135][368]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Consumables/HealthPotion_BPint.SKEL_HealthPotion_BPint_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.PackageMetaData'
+[2023.05.02-22.28.00:135][368]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Consumables/HealthPotion_BPint.SKEL_HealthPotion_BPint_C' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.PackageMetaData'
+[2023.05.02-22.28.00:135][368]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Consumables/HealthPotion_BPint.HealthPotion_BPint_C' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.PackageMetaData'
+[2023.05.02-22.28.00:135][368]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Consumables/HealthPotion_BPint.HealthPotion_BPint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.PackageMetaData'
+[2023.05.02-22.28.00:135][368]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Consumables/HealthPotion_BPint.HealthPotion_BPint:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.PackageMetaData'
+[2023.05.02-22.28.00:135][368]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Consumables/HealthPotion_BPint.HealthPotion_BPint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.PackageMetaData'
+[2023.05.02-22.28.00:135][368]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Consumables/HealthPotion_BPint.HealthPotion_BPint:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.PackageMetaData'
+[2023.05.02-22.28.00:135][368]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Consumables/HealthPotion_BPint.HealthPotion_BPint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.PackageMetaData'
+[2023.05.02-22.28.00:135][368]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Consumables/HealthPotion_BPint.HealthPotion_BPint:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.PackageMetaData'
+[2023.05.02-22.28.00:135][368]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Consumables/HealthPotion_BPint.SKEL_HealthPotion_BPint_C:ReceiveBeginPlay' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.PackageMetaData'
+[2023.05.02-22.28.00:135][368]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Consumables/HealthPotion_BPint.SKEL_HealthPotion_BPint_C:ReceiveTick' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.PackageMetaData'
+[2023.05.02-22.28.00:135][368]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Consumables/HealthPotion_BPint.SKEL_HealthPotion_BPint_C:UserConstructionScript' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.PackageMetaData'
+[2023.05.02-22.28.00:135][368]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Consumables/HealthPotion_BPint.HealthPotion_BPint_C:ReceiveBeginPlay' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.PackageMetaData'
+[2023.05.02-22.28.00:138][368]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-22.28.00:197][368]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/InteractionSystem/Consumables/HealthPotion_BPint
+[2023.05.02-22.28.00:197][368]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/HealthPotion_BPint965FCECC40FA11805BF1FB9756557A3B.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/Consumables/HealthPotion_BPint.uasset'
+[2023.05.02-22.28.00:198][368]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint
+[2023.05.02-22.28.00:198][368]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/HealthPotion_BPint3B1D712D4A386E2AFDD49EABA37A56FF.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.uasset'
+[2023.05.02-22.28.00:206][368]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 7.43 sec)
+[2023.05.02-22.28.00:226][368]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.02-22.28.00:226][368]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_MainFile/Nicole/InteractionSystem/Consumables/HealthPotion_BPint.HealthPotion_BPint
+[2023.05.02-22.28.00:226][368]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.HealthPotion_BPint
+[2023.05.02-22.28.00:226][368]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.Default__HealthPotion_BPint_C
+[2023.05.02-22.28.00:226][368]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/_MainFile/Nicole/InteractionSystem/HealthPotion_BPint.HealthPotion_BPint_C
+[2023.05.02-22.28.04:591][700]LogContentBrowser: Deferred new asset file creation: BaseInteractable_BP_Child
+[2023.05.02-22.28.04:620][700]LogContentBrowser: Creating deferred item: BaseInteractable_BP_Child
+[2023.05.02-22.28.04:637][701]LogContentBrowser: Renaming the item being created (Deferred Item: BaseInteractable_BP_Child).
+[2023.05.02-22.28.16:803][615]LogContentBrowser: Attempting asset rename: BaseInteractable_BP_Child -> WoodShield_BP
+[2023.05.02-22.28.16:810][615]LogContentBrowser: End creating deferred item BaseInteractable_BP_Child
+[2023.05.02-22.28.21:997][ 17]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Weapons/WoodShield_BP.WoodShield_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/WoodShield_BP.PackageMetaData'
+[2023.05.02-22.28.21:997][ 17]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Weapons/WoodShield_BP.SKEL_WoodShield_BP_C:UserConstructionScript' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/WoodShield_BP.PackageMetaData'
+[2023.05.02-22.28.21:997][ 17]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Weapons/WoodShield_BP.SKEL_WoodShield_BP_C' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/WoodShield_BP.PackageMetaData'
+[2023.05.02-22.28.21:997][ 17]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Weapons/WoodShield_BP.WoodShield_BP_C' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/WoodShield_BP.PackageMetaData'
+[2023.05.02-22.28.21:997][ 17]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Weapons/WoodShield_BP.WoodShield_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/WoodShield_BP.PackageMetaData'
+[2023.05.02-22.28.21:997][ 17]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Weapons/WoodShield_BP.WoodShield_BP:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/WoodShield_BP.PackageMetaData'
+[2023.05.02-22.28.21:997][ 17]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Weapons/WoodShield_BP.WoodShield_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/WoodShield_BP.PackageMetaData'
+[2023.05.02-22.28.21:997][ 17]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Weapons/WoodShield_BP.WoodShield_BP:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/WoodShield_BP.PackageMetaData'
+[2023.05.02-22.28.21:997][ 17]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Weapons/WoodShield_BP.WoodShield_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/WoodShield_BP.PackageMetaData'
+[2023.05.02-22.28.21:997][ 17]LogMetaData: Removing '/Game/_MainFile/Nicole/InteractionSystem/Weapons/WoodShield_BP.WoodShield_BP:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/_MainFile/Nicole/InteractionSystem/WoodShield_BP.PackageMetaData'
+[2023.05.02-22.28.21:997][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-22.28.22:077][ 17]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/InteractionSystem/Weapons/WoodShield_BP
+[2023.05.02-22.28.22:077][ 17]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/WoodShield_BP6211131D4CF1625AA36C1C931D94CB17.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/Weapons/WoodShield_BP.uasset'
+[2023.05.02-22.28.22:083][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 7.52 sec)
+[2023.05.02-22.28.22:133][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.05.02-22.28.22:165][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.05.02-22.28.22:196][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.02-22.28.22:213][ 17]AssetCheck: New page: Asset Save: WoodShield_BP
+[2023.05.02-22.28.22:213][ 17]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_MainFile/Nicole/InteractionSystem/Weapons/WoodShield_BP.WoodShield_BP
+[2023.05.02-22.28.27:425][398]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_MainFile/Nicole/InteractionSystem/Weapons/WoodShield_BP.WoodShield_BP
+[2023.05.02-22.28.27:426][398]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.02-22.28.27:895][398]LogViewport: Scene viewport resized to 1179x869, mode Windowed.
+[2023.05.02-22.28.44:820][741]BlueprintLog: New page: Compile WoodShield_BP
+[2023.05.02-22.28.44:874][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.05.02-22.28.45:444][777]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-22.28.45:493][777]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/InteractionSystem/Weapons/WoodShield_BP
+[2023.05.02-22.28.45:494][777]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/WoodShield_BPF8296A1A4336B2AE9EA739825587F565.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/Weapons/WoodShield_BP.uasset'
+[2023.05.02-22.28.45:499][777]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 7.57 sec)
+[2023.05.02-22.28.45:505][777]AssetCheck: New page: Asset Save: WoodShield_BP
+[2023.05.02-22.28.45:505][777]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_MainFile/Nicole/InteractionSystem/Weapons/WoodShield_BP.WoodShield_BP
+[2023.05.02-22.28.50:051][123]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.05.02-22.28.50:051][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-22.28.51:047][207]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.05.02-22.28.51:047][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-22.28.54:540][484]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.05.02-22.28.54:541][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-22.28.56:360][650]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.05.02-22.28.56:360][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-22.29.01:288][ 62]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.02-22.29.01:288][ 62]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.05.02-22.29.01:288][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-22.29.18:118][765]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.02-22.29.18:118][765]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.02-22.29.18:118][765]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.02-22.29.53:258][489]LogTexture: Display: Building textures: /Game/HandPainted_Armor_Icons/Background/leather_shield.leather_shield (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2023.05.02-22.30.38:957][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.05.02-22.30.38:972][837]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.083
+[2023.05.02-22.30.38:972][837]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT] ([1] browsable assets)...
+[2023.05.02-22.30.38:972][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT]
+[2023.05.02-22.30.38:973][837]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT_Auto4
+[2023.05.02-22.30.38:973][837]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/ItemInfo_DT_Auto40C65DD064A674DFF6AC85D8439A4AE16.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/Autosaves/Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT_Auto4.uasset'
+[2023.05.02-22.30.38:973][837]LogFileHelpers: Auto-saving content packages took 0.002
+[2023.05.02-22.32.08:384][122]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-22.32.08:443][122]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT
+[2023.05.02-22.32.08:443][122]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/ItemInfo_DT97E7319042A1413F346D7FA67CF9CFE1.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/ItemInfo_DT.uasset'
+[2023.05.02-22.32.08:448][122]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 7.63 sec)
+[2023.05.02-22.32.08:455][122]AssetCheck: New page: Asset Save: ItemInfo_DT
+[2023.05.02-22.32.08:455][122]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT.ItemInfo_DT
+[2023.05.02-22.32.32:614][303]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.02-22.32.32:679][303]LogSavePackage: Moving output files for package: /Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT
+[2023.05.02-22.32.32:679][303]LogSavePackage: Moving '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Saved/ItemInfo_DTEF27CAA046BCA300655443B7E8C09BE7.tmp' to '../../../../../../Users/Scarlet/GitHub_Main/Guard_Duty/Content/_MainFile/Nicole/InteractionSystem/ItemInfo_DT.uasset'
+[2023.05.02-22.32.32:682][303]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 7.70 sec)
+[2023.05.02-22.32.32:689][303]AssetCheck: New page: Asset Save: ItemInfo_DT
+[2023.05.02-22.32.32:689][303]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/_MainFile/Nicole/InteractionSystem/ItemInfo_DT.ItemInfo_DT
+[2023.05.02-22.32.34:130][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.05.02-22.42.38:527][269]LogDerivedDataCache: C:/Users/Scarlet/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:14.102 and deleted 0 files with total size 0 MiB. Scanned 39477 files in 35618 folders with total size 8157 MiB.
+[2023.05.02-23.42.38:544][ 66]LogDerivedDataCache: C:/Users/Scarlet/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:14.119 and deleted 0 files with total size 0 MiB. Scanned 39477 files in 35618 folders with total size 8157 MiB.
+[2023.05.03-00.01.57:931][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
